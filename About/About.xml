@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<!-- Don't change the name! -->
+  <name>Translated names</name>
+  <author>MaxZiCode</author>
+  <url>Later</url>
+  <description>Translates humanlike names to selected language.</description>
+  <supportedVersions><li>1.0</li></supportedVersions>
+</ModMetaData>

@@ -1,0 +1,1 @@
+# Rimworld-Translated-names
