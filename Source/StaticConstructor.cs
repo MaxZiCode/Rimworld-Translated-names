@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Reflection;
 using System.IO;
-using System.Text.RegularExpressions;
+using System.Xml.Linq;
 
 using Verse;
 using RimWorld;
@@ -24,39 +24,52 @@ namespace TranslatedNames
 
 		public static readonly string rootPath = ModLister.AllInstalledMods.First(m => m.Name == "Translated names").RootDir.FullName;
 
+		public static readonly string translationPath;
+
 		static StaticConstructor()
 		{
 #if DEBUG
 			GetFilesWithNames();
 #endif
-			var harmony = HarmonyInstance.Create("rimworld.maxzicode.translatednames.mainconstructor");
-			harmony.PatchAll(Assembly.GetExecutingAssembly());
+			string lang = GetTranslationLanguage(rootPath + @"\Translations\Main settings.xml");
+			if (!string.IsNullOrEmpty(lang))
+			{
+				translationPath = rootPath + $@"\Translations\{lang}\";
+
+				var harmony = HarmonyInstance.Create("rimworld.maxzicode.translatednames.mainconstructor");
+				harmony.PatchAll(Assembly.GetExecutingAssembly());
+#if DEBUG
+				Log.Message("Loaded translation for the language: " + lang); 
+#endif
+			}
 		}
 
 		private static void GetFilesWithNames()
 		{
 			string[] namesLabels = { firstMale, firstFemale, nickMale, nickFemale, nickUnisex, last };
+			string debugPath = rootPath + @"\Debug\";
 
 			Dictionary<string, List<string>> namesDict = new Dictionary<string, List<string>>();
 			foreach (var name in namesLabels)
-				namesDict.Add(name, GenFile.LinesFromFile(@"Names/" + name).ToList());
-			
+				namesDict.Add(name, GenFile.LinesFromFile(@"Names\" + name).ToList());
+
 			foreach (var gender in new GenderPossibility[] { GenderPossibility.Male, GenderPossibility.Female, GenderPossibility.Either })
-			foreach (var n in PawnNameDatabaseSolid.GetListForGender(gender)) 
-				FillByGender(gender, n, namesDict);
+				foreach (var n in PawnNameDatabaseSolid.GetListForGender(gender))
+					FillByGender(gender, n, namesDict);
 
 			foreach (var bio in SolidBioDatabase.allBios)
 				FillByGender(bio.gender, bio.name, namesDict);
 
 			foreach (string name in namesLabels)
 			{
-				DirectoryInfo dir = Directory.CreateDirectory(rootPath + @"/Debug/");
-				using (StreamWriter sw = File.CreateText(dir.FullName + @"/" + name + @".txt"))
+				DirectoryInfo dir = Directory.CreateDirectory(debugPath);
+				using (StreamWriter sw = File.CreateText(dir.FullName + $@"\{name}.txt"))
 				{
 					foreach (var s in namesDict[name])
 						sw.WriteLine(s);
 				}
 			}
+			Log.Message("Files with names have been created in: " + debugPath);
 		}
 
 		private static void FillByGender(GenderPossibility gender, NameTriple name, Dictionary<string, List<string>> dict)
@@ -73,21 +86,21 @@ namespace TranslatedNames
 					if (!string.IsNullOrEmpty(nick) && !dict[nickUnisex].Contains(nick))
 						AddName(dict[nickMale], nick);
 				}
-					break;
+				break;
 				case GenderPossibility.Female:
 				{
 					AddName(dict[firstFemale], first);
 					if (!string.IsNullOrEmpty(nick) && !dict[nickUnisex].Contains(nick))
 						AddName(dict[nickFemale], nick);
 				}
-					break;
+				break;
 				case GenderPossibility.Either:
 				{
 					AddName(dict[firstMale], first);
 					AddName(dict[firstFemale], first);
 					AddName(dict[nickUnisex], nick);
 				}
-					break;
+				break;
 				default:
 					Log.Error("There is an error in the gender switch for name " + name.ToString());
 					break;
@@ -99,6 +112,24 @@ namespace TranslatedNames
 			if (!string.IsNullOrEmpty(s) && !collection.Contains(s))
 				collection.Add(s);
 		}
+
+		private static string GetTranslationLanguage(string mainSettingsPath)
+		{
+			XDocument xd = XDocument.Load(mainSettingsPath);
+			string langEng = LanguageDatabase.activeLanguage.FriendlyNameEnglish;
+			string langNat = LanguageDatabase.activeLanguage.FriendlyNameNative;
+
+			foreach (var tLanguage in xd.Root.Elements())
+			{
+				foreach (var supLanguage in tLanguage.Element("supported_languages").Elements())
+				{
+					if (langEng.Contains(supLanguage.Value.Trim()) || langNat.Contains(supLanguage.Value.Trim()))
+						return tLanguage.Attribute("folderName").Value;
+				}
+			}
+			return null;
+		}
+
 
 		[HarmonyPatch(typeof(PawnBioAndNameGenerator), "GiveAppropriateBioAndNameTo", MethodType.Normal)]
 		class PatchNameGiver

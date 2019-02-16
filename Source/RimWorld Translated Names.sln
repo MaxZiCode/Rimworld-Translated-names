@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimWorld Translated Names", "RimWorld Translated Names.csproj", "{857B9C81-9443-449F-A750-EF3F628A1570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate Names Utility", "..\TranslateNamesUtility\Translate Names Utility.csproj", "{D37A0A25-D790-48F2-8D1C-9F75D8B5088C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

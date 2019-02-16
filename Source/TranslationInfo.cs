@@ -17,9 +17,7 @@ namespace TranslatedNames
 
 		static TranslationInfo()
 		{
-			string directoryPath = StaticConstructor.rootPath + @"\Translations\Russian\";
-
-			foreach (var filePath in Directory.GetFiles(directoryPath))
+			foreach (var filePath in Directory.GetFiles(StaticConstructor.translationPath))
 				try
 				{
 					XDocument xd = XDocument.Load(filePath);
@@ -48,19 +46,23 @@ namespace TranslatedNames
 		public static string GetTranslation(string name)
 		{
 			string tName = name;
-			string pattern = "[A-Za-z]+";
+			string engPattern = "[A-Za-z]+";
 
-			if (Regex.IsMatch(name, pattern))
+			if (Regex.IsMatch(name, engPattern))
 			{
 				if (translations.ContainsKey(name))
 				{
 					tName = translations[name];
 
-					if (Regex.IsMatch(tName, pattern))
-						Log.Warning($"The name '{tName}' not translated in the translation dictionary!");
+#if DEBUG
+					if (Regex.IsMatch(tName, engPattern))
+						Log.Warning($"The name '{tName}' not translated in the translation dictionary!"); 
+#endif
 				}
+#if DEBUG
 				else
-					Log.Warning($"The translation dictionary doesn't contain the key '{tName}'.");
+					Log.Warning($"The translation dictionary doesn't contain the key '{tName}'."); 
+#endif
 			}
 			return tName;
 		}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main_settings>
+
+  <!-- 
+  Example:
+  <translation_language folderName = "A name of folder with a translation" >
+    <supported_languages>
+      <li>"Game language"</li>
+    </supported_languages>
+  </translation_language> 
+  -->
+  
+  <translation_language folderName = "Russian" >
+    <supported_languages>
+      <li>Russian</li>
+      <li>Russian-SK</li>
+    </supported_languages>
+  </translation_language>
+  
+</Main_settings>
