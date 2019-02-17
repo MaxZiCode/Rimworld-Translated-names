@@ -4,17 +4,17 @@
   <translation name="Fernijen" t-Name="Ферниен" />
   <translation name="Belle" t-Name="Белль" />
   <translation name="Madam" t-Name="Мадам" />
-  <translation name="Sass" t-Name="Sass" />
-  <translation name="Cella" t-Name="Целла" />
+  <translation name="Sass" t-Name="Нахалка" />
+  <translation name="Cella" t-Name="Клеточка" />
   <translation name="Loly" t-Name="Лоли" />
   <translation name="Cleo" t-Name="Клео" />
   <translation name="Lolita" t-Name="Лолита" />
   <translation name="Bucky" t-Name="Баки" />
-  <translation name="Starry" t-Name="Звездное" />
+  <translation name="Starry" t-Name="Звёздочка" />
   <translation name="Princess" t-Name="Принцесса" />
   <translation name="Prissy" t-Name="Присси" />
   <translation name="Tiffy" t-Name="Тиффи" />
-  <translation name="Tomboy" t-Name="Tomboy" />
+  <translation name="Tomboy" t-Name="Девчонка-сорванец" />
   <translation name="Nag" t-Name="Наг" />
   <translation name="Fox" t-Name="Лиса" />
   <translation name="Sugar" t-Name="Сахар" />
@@ -25,22 +25,22 @@
   <translation name="Ma'am" t-Name="Мэм" />
   <translation name="Missy" t-Name="Мисси" />
   <translation name="Meretrix" t-Name="Меретрикс" />
-  <translation name="Nails" t-Name="Гвозди" />
+  <translation name="Nails" t-Name="Ноготки" />
   <translation name="Gazelle" t-Name="Газель" />
-  <translation name="Cat" t-Name="Кот" />
+  <translation name="Cat" t-Name="Кошка" />
   <translation name="Kat" t-Name="Кэт" />
   <translation name="Spider" t-Name="Паук" />
-  <translation name="Raven" t-Name="Ворон" />
+  <translation name="Raven" t-Name="Ворона" />
   <translation name="Cougar" t-Name="Пума" />
-  <translation name="Snotface" t-Name="Snotface" />
+  <translation name="Snotface" t-Name="Соплячка" />
   <translation name="Shaper" t-Name="Шейпер" />
   <translation name="Canim" t-Name="Каним" />
   <translation name="Clara" t-Name="Клара" />
   <translation name="Snappy" t-Name="Снаппи" />
-  <translation name="Blue" t-Name="Синий" />
+  <translation name="Blue" t-Name="Голубая" />
   <translation name="Neil" t-Name="Нил" />
   <translation name="Vere" t-Name="Вере" />
-  <translation name="Ill" t-Name="Плохо" />
+  <translation name="Ill" t-Name="Больная" />
   <translation name="Blair" t-Name="Блэр" />
   <translation name="Tigress" t-Name="Тигрица" />
   <translation name="Karo" t-Name="Каро" />
@@ -48,16 +48,16 @@
   <translation name="Orion" t-Name="Орион" />
   <translation name="Meowski" t-Name="Меовски" />
   <translation name="Addy" t-Name="Адди" />
-  <translation name="Pan" t-Name="Пан" />
+  <translation name="Pan" t-Name="Кастрюля" />
   <translation name="Ivia" t-Name="Ивия" />
   <translation name="Isodora" t-Name="Изодора" />
   <translation name="Ella" t-Name="Элла" />
   <translation name="Chouinard" t-Name="Шуинар" />
-  <translation name="Zurine" t-Name="Zurine" />
+  <translation name="Zurine" t-Name="Цуринь" />
   <translation name="Dral" t-Name="Драл" />
   <translation name="Azzura" t-Name="Аззура" />
   <translation name="Kathrin" t-Name="Катрин" />
-  <translation name="Shrike" t-Name="Шрайк" />
+  <translation name="Shrike" t-Name="Сорокопут" />
   <translation name="Jessy" t-Name="Джесси" />
   <translation name="Taya" t-Name="Тая" />
   <translation name="Shonja" t-Name="Шоня" />
@@ -80,7 +80,7 @@
   <translation name="Stella" t-Name="Стелла" />
   <translation name="Lu" t-Name="Лу" />
   <translation name="Queenie" t-Name="Куини" />
-  <translation name="Est" t-Name="Est" />
+  <translation name="Est" t-Name="Ист" />
   <translation name="Py" t-Name="Пи" />
   <translation name="Libby" t-Name="Либби" />
   <translation name="London" t-Name="Лондон" />
@@ -107,9 +107,9 @@
   <translation name="Poukram" t-Name="Поукрам" />
   <translation name="Minnie" t-Name="Минни" />
   <translation name="Bluebird" t-Name="Синяя птица" />
-  <translation name="Smash" t-Name="Smash" />
+  <translation name="Smash" t-Name="Разгром" />
   <translation name="Jules" t-Name="Жюль" />
-  <translation name="Blur" t-Name="Blur" />
+  <translation name="Blur" t-Name="Клякса" />
   <translation name="Singer" t-Name="Певица" />
   <translation name="Pinkie" t-Name="Пинки" />
   <translation name="Sawyer" t-Name="Сойер" />
@@ -117,15 +117,15 @@
   <translation name="Rodat" t-Name="Родат" />
   <translation name="Laine" t-Name="Лайне" />
   <translation name="Viper" t-Name="Гадюка" />
-  <translation name="Red" t-Name="Красный" />
+  <translation name="Red" t-Name="Красная" />
   <translation name="Krista" t-Name="Криста" />
   <translation name="Sari" t-Name="Сари" />
   <translation name="Element" t-Name="Элемент" />
-  <translation name="Brows" t-Name="Брови" />
-  <translation name="Drang" t-Name="Drang" />
-  <translation name="Von Doom" t-Name="Фон дум" />
+  <translation name="Brows" t-Name="Бровь" />
+  <translation name="Drang" t-Name="Натиск" />
+  <translation name="Von Doom" t-Name="Вон Дум" />
   <translation name="Shion" t-Name="Шион" />
-  <translation name="Eminent" t-Name="Выдающийся" />
+  <translation name="Eminent" t-Name="Выдающаяся" />
   <translation name="Naharis" t-Name="Нахарис" />
   <translation name="Eryl" t-Name="Эрил" />
   <translation name="Iris" t-Name="Ирис" />
@@ -139,9 +139,9 @@
   <translation name="Tkoi" t-Name="Ткой" />
   <translation name="Shi" t-Name="Ши" />
   <translation name="Acacia" t-Name="Акация" />
-  <translation name="Sin" t-Name="Грех" />
+  <translation name="Sin" t-Name="Грешная" />
   <translation name="Lumi" t-Name="Луми" />
-  <translation name="Melee" t-Name="Ближний бой" />
+  <translation name="Melee" t-Name="Рукопашка" />
   <translation name="Rebecca" t-Name="Ребекка" />
   <translation name="Smiles" t-Name="Улыбки" />
   <translation name="Cassie" t-Name="Кэсси" />
@@ -151,27 +151,27 @@
   <translation name="Jane" t-Name="Джейн" />
   <translation name="Sneffi" t-Name="Снеффи" />
   <translation name="Ark" t-Name="Ковчег" />
-  <translation name="BigVee" t-Name="Bigvee" />
-  <translation name="Landale" t-Name="Landale" />
+  <translation name="BigVee" t-Name="БигВи" />
+  <translation name="Landale" t-Name="Ландейл" />
   <translation name="Cheabear" t-Name="Чеабир" />
   <translation name="Manu" t-Name="Ману" />
   <translation name="Kami" t-Name="Ками" />
   <translation name="Hokka" t-Name="Хокка" />
   <translation name="Carrie" t-Name="Кэрри" />
   <translation name="Valkyrie" t-Name="Валькирия" />
-  <translation name="Ash" t-Name="Ясень" />
+  <translation name="Ash" t-Name="Зола" />
   <translation name="Harley" t-Name="Харлей" />
   <translation name="Pina" t-Name="Пина" />
   <translation name="Foozie" t-Name="Фузи" />
   <translation name="Miana" t-Name="Миана" />
-  <translation name="Gore" t-Name="Гор" />
+  <translation name="Gore" t-Name="Запекшаяся кровь" />
   <translation name="Linn" t-Name="Линн" />
   <translation name="Charissa" t-Name="Чарисса" />
   <translation name="Harp" t-Name="Арфа" />
   <translation name="Iko" t-Name="Ико" />
-  <translation name="Eu" t-Name="Ес" />
+  <translation name="Eu" t-Name="Ёу" />
   <translation name="Eva" t-Name="Ева" />
-  <translation name="Bear" t-Name="Медведь" />
+  <translation name="Bear" t-Name="Медведица" />
   <translation name="Bunchie" t-Name="Банчи" />
   <translation name="Fuego" t-Name="Fuego" />
   <translation name="Antonsson" t-Name="Антонссон" />
@@ -180,18 +180,18 @@
   <translation name="Lilu" t-Name="Лилу" />
   <translation name="Faye" t-Name="Фэй" />
   <translation name="Levia" t-Name="Левия" />
-  <translation name="Anamù" t-Name="Anamù" />
+  <translation name="Anamù" t-Name="Анамью" />
   <translation name="Nina" t-Name="Нина" />
-  <translation name="Cee-Oh" t-Name="Си-о" />
+  <translation name="Cee-Oh" t-Name="Си-Оу" />
   <translation name="Katt" t-Name="Катт" />
   <translation name="Branwell" t-Name="Бранвелл" />
   <translation name="Lisa" t-Name="Лиза" />
   <translation name="Nabs" t-Name="Набс" />
-  <translation name="SJ" t-Name="Sj" />
+  <translation name="SJ" t-Name="ЭсДжей" />
   <translation name="Artemis" t-Name="Артемида" />
   <translation name="Murray" t-Name="Мюррей" />
   <translation name="Ellie" t-Name="Элли" />
-  <translation name="Choke" t-Name="Дроссель" />
+  <translation name="Choke" t-Name="Душительница" />
   <translation name="Allessia" t-Name="Аллессия" />
   <translation name="Logan" t-Name="Логан" />
   <translation name="Demetri" t-Name="Деметрий" />

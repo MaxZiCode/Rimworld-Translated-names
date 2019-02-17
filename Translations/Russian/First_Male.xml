@@ -231,7 +231,7 @@
   <translation name="Hiroshi" t-Name="Хироши" />
   <translation name="Hiroto" t-Name="Хирото" />
   <translation name="Isamu" t-Name="Исаму" />
-  <translation name="Kaito" t-Name="Kaito" />
+  <translation name="Kaito" t-Name="Кайто" />
   <translation name="Katsumi" t-Name="Кацуми" />
   <translation name="Kazuki" t-Name="Казуки" />
   <translation name="Kazuya" t-Name="Казуя" />
@@ -399,7 +399,7 @@
   <translation name="Tsume" t-Name="Цуме" />
   <translation name="Isaac" t-Name="Исаак" />
   <translation name="Jamison" t-Name="Джемисон" />
-  <translation name="Zureal" t-Name="Zureal" />
+  <translation name="Zureal" t-Name="Зуреал" />
   <translation name="Kefodu" t-Name="Кефоду" />
   <translation name="Jamie" t-Name="Джейми" />
   <translation name="Levy" t-Name="Леви" />
@@ -409,14 +409,14 @@
   <translation name="Jason" t-Name="Джейсон" />
   <translation name="Helge" t-Name="Хельге" />
   <translation name="Pierre" t-Name="Пьер" />
-  <translation name="Woong Gun" t-Name="Woong gun" />
+  <translation name="Woong Gun" t-Name="Вунг Ган" />
   <translation name="Hendrik" t-Name="Хендрик" />
   <translation name="Yuriika" t-Name="Юрия" />
   <translation name="Stefan" t-Name="Стефан" />
   <translation name="Morten" t-Name="Мортен" />
   <translation name="Dominik" t-Name="Доминик" />
   <translation name="Kylar" t-Name="Килар" />
-  <translation name="Elad" t-Name="Elad" />
+  <translation name="Elad" t-Name="Элад" />
   <translation name="Jörn" t-Name="Йорн" />
   <translation name="Nuno" t-Name="Нуно" />
   <translation name="Anthony" t-Name="Энтони" />
@@ -432,9 +432,9 @@
   <translation name="Jordane" t-Name="Джордан" />
   <translation name="Christoph" t-Name="Кристоф" />
   <translation name="Ethan" t-Name="Итан" />
-  <translation name="Loïc" t-Name="Loïc" />
+  <translation name="Loïc" t-Name="Лёуик" />
   <translation name="Alexandr" t-Name="Александр" />
-  <translation name="Christoffer" t-Name="Christoffer" />
+  <translation name="Christoffer" t-Name="Кристоффер" />
   <translation name="Eric" t-Name="Эрик" />
   <translation name="Lance" t-Name="Ланс" />
   <translation name="Tyler" t-Name="Тайлер" />
@@ -447,7 +447,7 @@
   <translation name="Jakob" t-Name="Якоб" />
   <translation name="Adonis" t-Name="Адонис" />
   <translation name="Gave" t-Name="Дал" />
-  <translation name="Yew Turk" t-Name="Тис тюрк" />
+  <translation name="Yew Turk" t-Name="Тис Тюрк" />
   <translation name="Keegan" t-Name="Киган" />
   <translation name="Jay" t-Name="Джей" />
   <translation name="Snay" t-Name="Сней" />
@@ -476,10 +476,10 @@
   <translation name="Henrik" t-Name="Хенрик" />
   <translation name="Craig" t-Name="Крейг" />
   <translation name="Sven" t-Name="Свен" />
-  <translation name="Maciek" t-Name="Maciek" />
+  <translation name="Maciek" t-Name="Мачек" />
   <translation name="Jukka" t-Name="Юкка" />
   <translation name="Logan" t-Name="Логан" />
-  <translation name="Luc Marc" t-Name="Люк марк" />
+  <translation name="Luc Marc" t-Name="Люк Марк" />
   <translation name="Daniil" t-Name="Даниил" />
   <translation name="Tanek" t-Name="Танек" />
   <translation name="Ryan" t-Name="Райан" />
@@ -510,7 +510,7 @@
   <translation name="Per" t-Name="Пер" />
   <translation name="Matt" t-Name="Мэтт" />
   <translation name="Ashley" t-Name="Эшли" />
-  <translation name="Na'morham" t-Name="Na'morham" />
+  <translation name="Na'morham" t-Name="На'морам" />
   <translation name="Pawel" t-Name="Павел" />
   <translation name="Curtis" t-Name="Кертис" />
   <translation name="Björn" t-Name="Бьёрн" />
@@ -561,24 +561,24 @@
   <translation name="Willem" t-Name="Виллем" />
   <translation name="Bridger" t-Name="Бриджер" />
   <translation name="Erik Hans" t-Name="Эрик ганс" />
-  <translation name="Flebe" t-Name="Flebe" />
+  <translation name="Flebe" t-Name="Флиб" />
   <translation name="Dan" t-Name="Дан" />
-  <translation name="Wyatt" t-Name="Wyatt" />
+  <translation name="Wyatt" t-Name="Уаятт" />
   <translation name="Azmu" t-Name="Азму" />
   <translation name="Cyril" t-Name="Кирилл" />
   <translation name="Bruno" t-Name="Бруно" />
   <translation name="Friti" t-Name="Фрити" />
-  <translation name="Jan-Joel" t-Name="Ян-джоэл" />
+  <translation name="Jan-Joel" t-Name="Ян-Джоэл" />
   <translation name="Garth" t-Name="Гарт" />
   <translation name="Joe" t-Name="Джо" />
   <translation name="McKinlay" t-Name="Маккинлэй" />
   <translation name="Staale" t-Name="Стаале" />
-  <translation name="Wu" t-Name="У" />
+  <translation name="Wu" t-Name="Ву" />
   <translation name="Andreas" t-Name="Андреас" />
   <translation name="Montgomery" t-Name="Монтгомери" />
   <translation name="Yann" t-Name="Янн" />
   <translation name="Cameron" t-Name="Кэмерон" />
-  <translation name="Cansin" t-Name="Cansin" />
+  <translation name="Cansin" t-Name="Кансин" />
   <translation name="Edwin" t-Name="Эдвин" />
   <translation name="Russell" t-Name="Рассел" />
   <translation name="Diogo" t-Name="Диого" />
@@ -681,7 +681,7 @@
   <translation name="Nolan" t-Name="Нолан" />
   <translation name="Luin" t-Name="Луин" />
   <translation name="Knut" t-Name="Кнут" />
-  <translation name="Jae" t-Name="Jae" />
+  <translation name="Jae" t-Name="Джей" />
   <translation name="Corlon" t-Name="Корлон" />
   <translation name="Chadwick" t-Name="Чедвик" />
   <translation name="Pétur" t-Name="Петур" />
@@ -707,12 +707,12 @@
   <translation name="Roy" t-Name="Рой" />
   <translation name="Jene" t-Name="Джене" />
   <translation name="Beato" t-Name="Беато" />
-  <translation name="Chi Wai" t-Name="Чи вай" />
+  <translation name="Chi Wai" t-Name="Чи Вай" />
   <translation name="Quentin" t-Name="Квентин" />
   <translation name="Will" t-Name="Воля" />
   <translation name="Larsel" t-Name="Ларсел" />
   <translation name="Morgan" t-Name="Морган" />
-  <translation name="Aldwytch" t-Name="Aldwytch" />
+  <translation name="Aldwytch" t-Name="Альдуйт" />
   <translation name="Johnnemann" t-Name="Джоннеманн" />
   <translation name="Yan" t-Name="Ян" />
   <translation name="Nicky" t-Name="Ники" />
@@ -724,7 +724,7 @@
   <translation name="Nickolas" t-Name="Николай" />
   <translation name="Bobby" t-Name="Бобби" />
   <translation name="Marko" t-Name="Марко" />
-  <translation name="Jaxx" t-Name="Jaxx" />
+  <translation name="Jaxx" t-Name="Джакс" />
   <translation name="Esben" t-Name="Эсбен" />
   <translation name="Liam" t-Name="Лиам" />
   <translation name="Phoenix" t-Name="Феникс" />
@@ -745,13 +745,13 @@
   <translation name="Clayton" t-Name="Клейтон" />
   <translation name="Stuart" t-Name="Стюарт" />
   <translation name="Grahame" t-Name="Грахам" />
-  <translation name="Toady" t-Name="Toady" />
+  <translation name="Toady" t-Name="Тоди" />
   <translation name="Sondre" t-Name="Сондре" />
   <translation name="Maas" t-Name="Маас" />
   <translation name="Atlas" t-Name="Атлас" />
   <translation name="Arkfreith" t-Name="Аркфрайт" />
   <translation name="Rudolph" t-Name="Рудольф" />
-  <translation name="Wan Zulfikri" t-Name="Ван зульфикри" />
+  <translation name="Wan Zulfikri" t-Name="Ван Зульфикри" />
   <translation name="Nahku" t-Name="Нахку" />
   <translation name="Jonne" t-Name="Джонн" />
   <translation name="Reece" t-Name="Рис" />
@@ -763,7 +763,7 @@
   <translation name="Pugsly" t-Name="Пагслы" />
   <translation name="Pirate" t-Name="Пират" />
   <translation name="Martyn" t-Name="Мартын" />
-  <translation name="Taejin" t-Name="Taejin" />
+  <translation name="Taejin" t-Name="Тэйджин" />
   <translation name="Pedro" t-Name="Педро" />
   <translation name="Tate" t-Name="Тейт" />
   <translation name="Dustin" t-Name="Дастин" />
@@ -836,17 +836,17 @@
   <translation name="Penn" t-Name="Пенн" />
   <translation name="Giovantai" t-Name="Джованай" />
   <translation name="Gene" t-Name="Джин" />
-  <translation name="Xels" t-Name="Xels" />
+  <translation name="Xels" t-Name="Эксельс" />
   <translation name="Graven" t-Name="Гравен" />
   <translation name="Gary" t-Name="Гари" />
-  <translation name="Hasnain" t-Name="Hasnain" />
+  <translation name="Hasnain" t-Name="Хаснейн" />
   <translation name="Meckes" t-Name="Мекес" />
   <translation name="Camden" t-Name="Камден" />
   <translation name="Grett" t-Name="Гретт" />
   <translation name="Roskov" t-Name="Росков" />
   <translation name="Evan" t-Name="Эван" />
   <translation name="Marten" t-Name="Мартен" />
-  <translation name="Younghoon" t-Name="Younghoon" />
+  <translation name="Younghoon" t-Name="Янхун" />
   <translation name="Enmarius" t-Name="Энмариус" />
   <translation name="Frederick" t-Name="Фредерик" />
   <translation name="Radley" t-Name="Рэдли" />
@@ -854,7 +854,7 @@
   <translation name="Jahaziel" t-Name="Яхазиэль" />
   <translation name="Osiris" t-Name="Осирис" />
   <translation name="Conor" t-Name="Конор" />
-  <translation name="Julian Eric" t-Name="Джулиан эрик" />
+  <translation name="Julian Eric" t-Name="Джулиан Эрик" />
   <translation name="Jeremiah" t-Name="Иеремия" />
   <translation name="Wardon" t-Name="Вардон" />
   <translation name="Ozzie" t-Name="Оззи" />
@@ -864,8 +864,8 @@
   <translation name="Evgeniy" t-Name="Евгений" />
   <translation name="Shihou" t-Name="Шихоу" />
   <translation name="Corey" t-Name="Кори" />
-  <translation name="Kieron" t-Name="Kieron" />
-  <translation name="Phat" t-Name="Phat" />
+  <translation name="Kieron" t-Name="Кирон" />
+  <translation name="Phat" t-Name="Фат" />
   <translation name="Geoppetto" t-Name="Геоппетто" />
   <translation name="Yaro" t-Name="Яро" />
   <translation name="Rodrigo" t-Name="Родриго" />
@@ -881,7 +881,7 @@
   <translation name="Russel" t-Name="Рассел" />
   <translation name="Daljit" t-Name="Далджит" />
   <translation name="John-Ryan" t-Name="Джон-райан" />
-  <translation name="Lock'eed" t-Name="Lock'eed" />
+  <translation name="Lock'eed" t-Name="Лок'ейд" />
   <translation name="Kodiak" t-Name="Кадьяк" />
   <translation name="Rhys" t-Name="Рис" />
   <translation name="Bartolomeo" t-Name="Бартоломео" />
@@ -900,10 +900,10 @@
   <translation name="Sergey" t-Name="Сергей" />
   <translation name="Nash" t-Name="Наш" />
   <translation name="Amatius" t-Name="Аматий" />
-  <translation name="Mickail" t-Name="Mickail" />
+  <translation name="Mickail" t-Name="Микейл" />
   <translation name="Alfred" t-Name="Альфред" />
   <translation name="Key" t-Name="Ключ" />
-  <translation name="Aindriu" t-Name="Aindriu" />
+  <translation name="Aindriu" t-Name="Эндрию" />
   <translation name="Axel" t-Name="Аксель" />
   <translation name="Jon" t-Name="Джон" />
   <translation name="Wesley" t-Name="Уэсли" />
@@ -930,10 +930,10 @@
   <translation name="Niko" t-Name="Нико" />
   <translation name="Taudo" t-Name="Таудо" />
   <translation name="Olle" t-Name="Олле" />
-  <translation name="Bovaiveu" t-Name="Bovaiveu" />
+  <translation name="Bovaiveu" t-Name="Бовайву" />
   <translation name="Tyco" t-Name="Tyco" />
   <translation name="Mitch" t-Name="Митч" />
-  <translation name="JC" t-Name="Jc" />
+  <translation name="JC" t-Name="ДжейСи" />
   <translation name="Krystian" t-Name="Кристиан" />
   <translation name="Ralsafar" t-Name="Ральсафар" />
   <translation name="Tyden" t-Name="Тиден" />
@@ -943,7 +943,7 @@
   <translation name="Zechariah" t-Name="Захария" />
   <translation name="Naha" t-Name="Наха" />
   <translation name="Jonny" t-Name="Джонни" />
-  <translation name="Wyl" t-Name="Wyl" />
+  <translation name="Wyl" t-Name="Уиль" />
   <translation name="Gintas" t-Name="Гинтас" />
   <translation name="Terrakoth" t-Name="Терракот" />
   <translation name="Bryce" t-Name="Брайс" />
@@ -954,7 +954,7 @@
   <translation name="Cyrill" t-Name="Кирилл" />
   <translation name="Nicholaus" t-Name="Николай" />
   <translation name="Quang" t-Name="Куанг" />
-  <translation name="Siluix" t-Name="Siluix" />
+  <translation name="Siluix" t-Name="Сильюкс" />
   <translation name="Fergal" t-Name="Фергал" />
   <translation name="gabriel" t-Name="Габриэль" />
   <translation name="Hamish" t-Name="Хэмиш" />
@@ -997,7 +997,7 @@
   <translation name="Diern" t-Name="Дирн" />
   <translation name="Ricky" t-Name="Рики" />
   <translation name="Colton" t-Name="Колтон" />
-  <translation name="Maxximillion" t-Name="Maxximillion" />
+  <translation name="Maxximillion" t-Name="Максимиллион" />
   <translation name="Ron" t-Name="Рон" />
   <translation name="Paolo" t-Name="Паоло" />
   <translation name="Mackenzie" t-Name="Маккензи" />
@@ -1021,7 +1021,7 @@
   <translation name="Bert" t-Name="Берт" />
   <translation name="Frazier" t-Name="Фрезер" />
   <translation name="Rafius" t-Name="Рафиус" />
-  <translation name="Ville" t-Name="Ville" />
+  <translation name="Ville" t-Name="Виль" />
   <translation name="Gyuu" t-Name="Гюу" />
   <translation name="Junnu" t-Name="Джунну" />
   <translation name="Failaria" t-Name="Файлария" />
@@ -1031,7 +1031,7 @@
   <translation name="Urick" t-Name="Урик" />
   <translation name="Dominic" t-Name="Доминик" />
   <translation name="Bikram" t-Name="Бикрам" />
-  <translation name="Brysos" t-Name="Brysos" />
+  <translation name="Brysos" t-Name="Брайсес" />
   <translation name="Dallas" t-Name="Даллас" />
   <translation name="Keiran" t-Name="Кейран" />
   <translation name="Azriel" t-Name="Азриэль" />
@@ -1040,7 +1040,7 @@
   <translation name="Stiofan" t-Name="Стиофан" />
   <translation name="Jarrod" t-Name="Джаррод" />
   <translation name="Ghaith" t-Name="Гайт" />
-  <translation name="Smax" t-Name="Smax" />
+  <translation name="Smax" t-Name="Смакс" />
   <translation name="Nigel" t-Name="Найджел" />
   <translation name="Piko" t-Name="Пико" />
   <translation name="Jace" t-Name="Джейс" />
@@ -1056,27 +1056,27 @@
   <translation name="Pepijn" t-Name="Пепейн" />
   <translation name="Ryder" t-Name="Райдер" />
   <translation name="Kael" t-Name="Кель" />
-  <translation name="Dadealus" t-Name="Dadealus" />
+  <translation name="Dadealus" t-Name="Дадейлас" />
   <translation name="Ashton" t-Name="Эштон" />
   <translation name="Sander" t-Name="Сандер" />
   <translation name="Kelvorn" t-Name="Кельворн" />
   <translation name="Chris-Henry" t-Name="Крис-генри" />
   <translation name="Bartosz" t-Name="Бартош" />
-  <translation name="Cal" t-Name="Cal" />
+  <translation name="Cal" t-Name="Кал" />
   <translation name="Vidimir" t-Name="Видимир" />
   <translation name="Napoleon" t-Name="Наполеон" />
   <translation name="Josef" t-Name="Иосиф" />
-  <translation name="Hyong Ouk" t-Name="Хён оук" />
+  <translation name="Hyong Ouk" t-Name="Хён Оук" />
   <translation name="Acularius" t-Name="Акулариус" />
   <translation name="Jo" t-Name="Джо" />
   <translation name="Gavin" t-Name="Гэвин" />
-  <translation name="Bastian-Blue" t-Name="Бастиан-блю" />
+  <translation name="Bastian-Blue" t-Name="Бастиан-Блю" />
   <translation name="Nevin" t-Name="Невин" />
   <translation name="Xaren" t-Name="Xaren" />
   <translation name="Billy" t-Name="Билли" />
   <translation name="Hans" t-Name="Ганс" />
   <translation name="Chad" t-Name="Чад" />
-  <translation name="Ceebtsheej" t-Name="Ceebtsheej" />
+  <translation name="Ceebtsheej" t-Name="Сибасьен" />
   <translation name="Tayrun" t-Name="Тайрун" />
   <translation name="Der" t-Name="Дер" />
   <translation name="Drekkar" t-Name="Дреккар" />
@@ -1084,7 +1084,7 @@
   <translation name="Oskar" t-Name="Оскар" />
   <translation name="Reed" t-Name="Рид" />
   <translation name="Orin" t-Name="Орин" />
-  <translation name="Jatan" t-Name="Jatan" />
+  <translation name="Jatan" t-Name="Джатан" />
   <translation name="Chachy" t-Name="Чачи" />
   <translation name="Rurik" t-Name="Рюрик" />
   <translation name="Hazza" t-Name="Хазза" />
@@ -1147,7 +1147,7 @@
   <translation name="Pershin" t-Name="Першин" />
   <translation name="Jorgen" t-Name="Йорген" />
   <translation name="Jan-Willem" t-Name="Ян-виллем" />
-  <translation name="Chunhui" t-Name="Chunhui" />
+  <translation name="Chunhui" t-Name="Чунмия" />
   <translation name="Deroc" t-Name="Дерок" />
   <translation name="Manoel" t-Name="Маноэль" />
   <translation name="Deividas" t-Name="Дейвидас" />
@@ -1161,8 +1161,8 @@
   <translation name="Eicon" t-Name="Эйкон" />
   <translation name="Aron" t-Name="Арон" />
   <translation name="Thorsten" t-Name="Торстен" />
-  <translation name="Ty" t-Name="Ты" />
-  <translation name="WillIam" t-Name="William" />
+  <translation name="Ty" t-Name="Тай" />
+  <translation name="WillIam" t-Name="Уильям" />
   <translation name="Cletus" t-Name="Клетус" />
   <translation name="Tyrone" t-Name="Тайрон" />
   <translation name="Jerome" t-Name="Джером" />
@@ -1178,12 +1178,12 @@
   <translation name="Malko" t-Name="Малко" />
   <translation name="Gerradine" t-Name="Джеррадайн" />
   <translation name="Loyd" t-Name="Лойд" />
-  <translation name="Xylar" t-Name="Xylar" />
-  <translation name="Russ" t-Name="Русь" />
+  <translation name="Xylar" t-Name="Ксайлар" />
+  <translation name="Russ" t-Name="Рус" />
   <translation name="Luther" t-Name="Лютер" />
   <translation name="Aleczander" t-Name="Александр" />
   <translation name="Greggory" t-Name="Греггори" />
-  <translation name="Venzel" t-Name="Venzel" />
+  <translation name="Venzel" t-Name="Венсель" />
   <translation name="Jayvon" t-Name="Джейвон" />
   <translation name="Hedge" t-Name="Хедж" />
   <translation name="Fox" t-Name="Лиса" />
@@ -1196,10 +1196,10 @@
   <translation name="Alfons" t-Name="Альфонс" />
   <translation name="Filip" t-Name="Филипп" />
   <translation name="Blair" t-Name="Блэр" />
-  <translation name="Ledge" t-Name="Ledge" />
+  <translation name="Ledge" t-Name="Ледж" />
   <translation name="Kristian" t-Name="Кристиан" />
   <translation name="Hauke" t-Name="Хауке" />
-  <translation name="Ezequiel" t-Name="Ezequiel" />
+  <translation name="Ezequiel" t-Name="Эзекьюэль" />
   <translation name="Greyson" t-Name="Грейсон" />
   <translation name="Ola" t-Name="Ола" />
   <translation name="René" t-Name="Рене" />
@@ -1224,7 +1224,7 @@
   <translation name="Hugo" t-Name="Хьюго" />
   <translation name="Masaki" t-Name="Масаки" />
   <translation name="Pin-chieh" t-Name="Пин-чи" />
-  <translation name="Lucient" t-Name="Lucient" />
+  <translation name="Lucient" t-Name="Льюсси" />
   <translation name="Kendel" t-Name="Кендель" />
   <translation name="Leif" t-Name="Лейф" />
   <translation name="Jathen" t-Name="Джатен" />
@@ -1238,7 +1238,7 @@
   <translation name="Dobri" t-Name="Добри" />
   <translation name="Guilherme" t-Name="Гильерме" />
   <translation name="Morian" t-Name="Мориан" />
-  <translation name="Jolain" t-Name="Jolain" />
+  <translation name="Jolain" t-Name="Льёлайн" />
   <translation name="Rolf" t-Name="Рольф" />
   <translation name="Lachlan" t-Name="Лахлан" />
   <translation name="Beau" t-Name="Бо" />
@@ -1259,7 +1259,7 @@
   <translation name="Syogo" t-Name="Сёго" />
   <translation name="Haris" t-Name="Харис" />
   <translation name="Rashaad" t-Name="Рашаад" />
-  <translation name="Hugues" t-Name="Hugues" />
+  <translation name="Hugues" t-Name="Юге" />
   <translation name="Santiago" t-Name="Сантьяго" />
   <translation name="Tavetti" t-Name="Таветти" />
   <translation name="Patriclus" t-Name="Патриклус" />
@@ -1274,7 +1274,7 @@
   <translation name="Kenji" t-Name="Кэндзи" />
   <translation name="Alexey" t-Name="Алексей" />
   <translation name="Herr" t-Name="Герр" />
-  <translation name="Yih-Pin" t-Name="Йих-пин" />
+  <translation name="Yih-Pin" t-Name="Йих-Пин" />
   <translation name="Slawomir" t-Name="Славомир" />
   <translation name="Terrence" t-Name="Терренс" />
   <translation name="Eldon" t-Name="Элдон" />
@@ -1288,15 +1288,15 @@
   <translation name="Gloric" t-Name="Глорик" />
   <translation name="Marin" t-Name="Марин" />
   <translation name="Lambertus" t-Name="Ламбертус" />
-  <translation name="Ryan-lee" t-Name="Райан-ли" />
+  <translation name="Ryan-lee" t-Name="Райан-Ли" />
   <translation name="Garreth" t-Name="Гаррет" />
-  <translation name="KangJun" t-Name="Kangjun" />
+  <translation name="KangJun" t-Name="Хатинь" />
   <translation name="Maarten" t-Name="Мартен" />
   <translation name="Lee" t-Name="Ли" />
   <translation name="Kason" t-Name="Касон" />
   <translation name="Mael" t-Name="Маэль" />
   <translation name="Tergel" t-Name="Торгел" />
-  <translation name="Durward" t-Name="Durward" />
+  <translation name="Durward" t-Name="Дорвард" />
   <translation name="Darrel" t-Name="Даррел" />
   <translation name="Chance" t-Name="Шанс" />
   <translation name="Jorrick" t-Name="Джоррик" />
@@ -1313,7 +1313,7 @@
   <translation name="Niels" t-Name="Нильс" />
   <translation name="Niru" t-Name="Ниру" />
   <translation name="Darryn" t-Name="Дэррин" />
-  <translation name="Yu Hua" t-Name="Ю хуа" />
+  <translation name="Yu Hua" t-Name="Ю Хуа" />
   <translation name="Kairu" t-Name="Кайру" />
   <translation name="Cory" t-Name="Кори" />
   <translation name="Katie" t-Name="Кэти" />
@@ -1375,12 +1375,12 @@
   <translation name="Nimbal" t-Name="Нимбал" />
   <translation name="Gregg" t-Name="Грегг" />
   <translation name="Gunnar" t-Name="Гуннар" />
-  <translation name="Phanat" t-Name="Phanat" />
+  <translation name="Phanat" t-Name="Фанат" />
   <translation name="Denver" t-Name="Денвер" />
   <translation name="Kayden" t-Name="Кайден" />
   <translation name="Brett" t-Name="Бретт" />
   <translation name="Ludovic" t-Name="Людовик" />
-  <translation name="Jiunwei" t-Name="Jiunwei" />
+  <translation name="Jiunwei" t-Name="Тьюэй" />
   <translation name="Lou" t-Name="Лу" />
   <translation name="Kars" t-Name="Карс" />
   <translation name="Ricol" t-Name="Рикол" />
@@ -1393,7 +1393,7 @@
   <translation name="Hoppy" t-Name="Хоппи" />
   <translation name="Jordi" t-Name="Джорди" />
   <translation name="Rab" t-Name="Раб" />
-  <translation name="Raffles" t-Name="Raffles" />
+  <translation name="Raffles" t-Name="Раффлс" />
   <translation name="Kyu-bum" t-Name="Кью-бум" />
   <translation name="Karsten" t-Name="Карстен" />
   <translation name="Kalle" t-Name="Калле" />
@@ -1432,9 +1432,9 @@
   <translation name="Dace" t-Name="Елец" />
   <translation name="Peeto" t-Name="Пеэто" />
   <translation name="Tandalus" t-Name="Тандал" />
-  <translation name="Mathais" t-Name="Mathais" />
+  <translation name="Mathais" t-Name="Матиас" />
   <translation name="Francois" t-Name="Франсуа" />
-  <translation name="Yu Chang" t-Name="Ю чанг" />
+  <translation name="Yu Chang" t-Name="Ю Чанг" />
   <translation name="Jess" t-Name="Джесс" />
   <translation name="Darji" t-Name="Даржи" />
   <translation name="Tiberius" t-Name="Тиберий" />
@@ -1451,8 +1451,8 @@
   <translation name="Peder" t-Name="Педер" />
   <translation name="Yamamushi" t-Name="Ямамуши" />
   <translation name="Reinaldo" t-Name="Рейнальдо" />
-  <translation name="Tj" t-Name="Tj" />
-  <translation name="DJ" t-Name="Dj" />
+  <translation name="Tj" t-Name="Тиджей" />
+  <translation name="DJ" t-Name="ДиДжей" />
   <translation name="Arik" t-Name="Арик" />
   <translation name="Chrisopher" t-Name="Христофор" />
   <translation name="Deverell" t-Name="Деверелл" />
@@ -1472,7 +1472,7 @@
   <translation name="Melvin" t-Name="Мелвин" />
   <translation name="Grantham" t-Name="Грантам" />
   <translation name="Pete" t-Name="Пит" />
-  <translation name="Euan" t-Name="Euan" />
+  <translation name="Euan" t-Name="Юэн" />
   <translation name="Natas" t-Name="Натас" />
   <translation name="Tobi" t-Name="Тоби" />
   <translation name="Arrian" t-Name="Арриан" />
@@ -1481,7 +1481,7 @@
   <translation name="Archer" t-Name="Лучник" />
   <translation name="Trey" t-Name="Трей" />
   <translation name="Jean-Pierre" t-Name="Жан-пьер" />
-  <translation name="Sönke" t-Name="Sönke" />
+  <translation name="Sönke" t-Name="Сонко" />
   <translation name="Lajos" t-Name="Лайос" />
   <translation name="Jevan" t-Name="Джеван" />
   <translation name="Clinton" t-Name="Клинтон" />
@@ -1491,9 +1491,9 @@
   <translation name="Hanford" t-Name="Хэнфорд" />
   <translation name="Darius" t-Name="Дарий" />
   <translation name="Sacha" t-Name="Саша" />
-  <translation name="Svein-Gisle" t-Name="Свейн-жизль" />
+  <translation name="Svein-Gisle" t-Name="Свейн-Жизль" />
   <translation name="Dakota" t-Name="Дакота" />
-  <translation name="Hans-Joachim" t-Name="Ханс-йоахим" />
+  <translation name="Hans-Joachim" t-Name="Ханс-Йоахим" />
   <translation name="Danton" t-Name="Дантон" />
   <translation name="Constantin" t-Name="Константин" />
   <translation name="Tarl" t-Name="Тарл" />
@@ -1550,20 +1550,20 @@
   <translation name="Ulf" t-Name="Ульф" />
   <translation name="Sibiescke" t-Name="Сибеске" />
   <translation name="Zanthril" t-Name="Зантрил" />
-  <translation name="Rejis" t-Name="Rejis" />
+  <translation name="Rejis" t-Name="Реджес" />
   <translation name="Mythos" t-Name="Мифос" />
-  <translation name="Hiralie" t-Name="Hiralie" />
-  <translation name="Jiseng" t-Name="Jiseng" />
+  <translation name="Hiralie" t-Name="Хирали" />
+  <translation name="Jiseng" t-Name="Тисен" />
   <translation name="Govert" t-Name="Говерт" />
   <translation name="Jayan" t-Name="Джаян" />
   <translation name="Titus" t-Name="Титус" />
-  <translation name="Cael" t-Name="Cael" />
+  <translation name="Cael" t-Name="Кейл" />
   <translation name="Jefferson" t-Name="Джефферсон" />
   <translation name="Stolando" t-Name="Столандо" />
   <translation name="Mohamed" t-Name="Мохамед" />
   <translation name="Taran" t-Name="Таран" />
-  <translation name="Twayne" t-Name="Twayne" />
-  <translation name="Pops" t-Name="Pops" />
+  <translation name="Twayne" t-Name="Твэйн" />
+  <translation name="Pops" t-Name="Попс" />
   <translation name="Lenny" t-Name="Ленни" />
   <translation name="Tonnie" t-Name="Тонни" />
   <translation name="Robbert" t-Name="Роберт" />
@@ -1596,12 +1596,12 @@
   <translation name="Date" t-Name="Дата" />
   <translation name="Kanata" t-Name="Каната" />
   <translation name="Tomasa" t-Name="Томаса" />
-  <translation name="BJ" t-Name="Bj" />
-  <translation name="Jalil-Ahmad" t-Name="Джалил-ахмад" />
+  <translation name="BJ" t-Name="БиДжей" />
+  <translation name="Jalil-Ahmad" t-Name="Джалил-Ахмад" />
   <translation name="Neb" t-Name="Неб" />
   <translation name="Horaxius" t-Name="Гораксус" />
   <translation name="Nikdogers" t-Name="Никдогерс" />
-  <translation name="Calton" t-Name="Calton" />
+  <translation name="Calton" t-Name="Калтон" />
   <translation name="Fajaffa" t-Name="Фаяффа" />
   <translation name="Tingshen" t-Name="Тиншен" />
   <translation name="Namjai" t-Name="Намджай" />
@@ -1617,7 +1617,7 @@
   <translation name="Foy" t-Name="Фой" />
   <translation name="Veit" t-Name="Вейт" />
   <translation name="Donitz" t-Name="Дониц" />
-  <translation name="Zyther" t-Name="Zyther" />
+  <translation name="Zyther" t-Name="Зайвер" />
   <translation name="Stoven" t-Name="Стовен" />
   <translation name="Yangyun" t-Name="Янъюнь" />
   <translation name="Wolfram" t-Name="Вольфрам" />
@@ -1634,7 +1634,7 @@
   <translation name="Cyan" t-Name="Циан" />
   <translation name="Klem" t-Name="Клем" />
   <translation name="Mordecai" t-Name="Мордехай" />
-  <translation name="Steinn" t-Name="Steinn" />
+  <translation name="Steinn" t-Name="Стэнн" />
   <translation name="Fengjie" t-Name="Фэнцзе" />
   <translation name="Symon" t-Name="Симон" />
   <translation name="Mazuki" t-Name="Мазуки" />
@@ -1644,11 +1644,11 @@
   <translation name="Augustus" t-Name="Август" />
   <translation name="Ruben" t-Name="Рубен" />
   <translation name="Kallahan" t-Name="Каллахан" />
-  <translation name="SungHyun" t-Name="Сунг хюн" />
+  <translation name="SungHyun" t-Name="СунгЖюн" />
   <translation name="Dafydd" t-Name="Дафидд" />
   <translation name="Detyan" t-Name="Детян" />
   <translation name="Dameon" t-Name="Дамон" />
-  <translation name="Jaden" t-Name="Jaden" />
+  <translation name="Jaden" t-Name="Джейден" />
   <translation name="Joachim" t-Name="Иоахим" />
   <translation name="Tiernan" t-Name="Тирнан" />
   <translation name="Jarkko" t-Name="Яркко" />
@@ -1676,9 +1676,9 @@
   <translation name="Tommaso" t-Name="Томмазо" />
   <translation name="Yulong" t-Name="Юлонг" />
   <translation name="Ismael" t-Name="Исмаэль" />
-  <translation name="Jaehun" t-Name="Jaehun" />
+  <translation name="Jaehun" t-Name="Ехан" />
   <translation name="Gabra" t-Name="Габра" />
-  <translation name="Maximal" t-Name="Максимальный" />
+  <translation name="Maximal" t-Name="Максимал" />
   <translation name="Ordoo" t-Name="Орду" />
   <translation name="Rod" t-Name="Род" />
   <translation name="Juanjo" t-Name="Хуанхо" />
@@ -1698,19 +1698,19 @@
   <translation name="Devon" t-Name="Девон" />
   <translation name="Bas" t-Name="Бас" />
   <translation name="Sorama" t-Name="Сорама" />
-  <translation name="Jeppe" t-Name="Jeppe" />
+  <translation name="Jeppe" t-Name="Еппе" />
   <translation name="Teodore" t-Name="Теодор" />
   <translation name="Georg" t-Name="Георг" />
-  <translation name="Jex" t-Name="Jex" />
+  <translation name="Jex" t-Name="Джекс" />
   <translation name="Cornelius" t-Name="Корнелиус" />
   <translation name="Duke" t-Name="Герцог" />
   <translation name="Grendl" t-Name="Грендл" />
   <translation name="Vimal" t-Name="Вимал" />
   <translation name="Leviel" t-Name="Левиэль" />
   <translation name="Yuriy" t-Name="Юрий" />
-  <translation name="Caedmon" t-Name="Caedmon" />
-  <translation name="Sören" t-Name="Sören" />
-  <translation name="Runfeng" t-Name="Runfeng" />
+  <translation name="Caedmon" t-Name="Кадман" />
+  <translation name="Sören" t-Name="Сорен" />
+  <translation name="Runfeng" t-Name="Ранфей" />
   <translation name="Matthieu" t-Name="Матье" />
   <translation name="Bernie" t-Name="Берни" />
   <translation name="Aasajo" t-Name="Аасахо" />
@@ -1775,20 +1775,20 @@
   <translation name="Godriff" t-Name="Годрифф" />
   <translation name="Loki" t-Name="Локи" />
   <translation name="Ziyu" t-Name="Зию" />
-  <translation name="CJ" t-Name="Cj" />
+  <translation name="CJ" t-Name="СиДжей" />
   <translation name="Tarik" t-Name="Тарик" />
   <translation name="Juanito" t-Name="Хуанито" />
   <translation name="Cadumus" t-Name="Кадумус" />
   <translation name="Leigh" t-Name="Ли" />
   <translation name="Arian" t-Name="Ариан" />
   <translation name="Ava" t-Name="Ава" />
-  <translation name="Bruno-Pier" t-Name="Бруно-пирс" />
+  <translation name="Bruno-Pier" t-Name="Бруно-Пирс" />
   <translation name="Nizaiah" t-Name="Низайя" />
   <translation name="Hamed" t-Name="Хамед" />
   <translation name="Akai" t-Name="Акай" />
   <translation name="Ivaylo" t-Name="Ивайло" />
   <translation name="Rodolfo" t-Name="Родольфо" />
-  <translation name="Joeven" t-Name="Joeven" />
+  <translation name="Joeven" t-Name="Джойван" />
   <translation name="Paulie" t-Name="Поли" />
   <translation name="Mervyn" t-Name="Мервин" />
   <translation name="Philéas" t-Name="Филеас" />
@@ -1813,7 +1813,7 @@
   <translation name="Lake" t-Name="Озеро" />
   <translation name="Timoteo" t-Name="Тимотео" />
   <translation name="Dimiras" t-Name="Димирас" />
-  <translation name="Byungjoo" t-Name="Byungjoo" />
+  <translation name="Byungjoo" t-Name="Байанжо" />
   <translation name="Kale" t-Name="Кале" />
   <translation name="Sigvaldi" t-Name="Сигвальди" />
   <translation name="Rosencrantz" t-Name="Розенкранц" />
@@ -1822,15 +1822,15 @@
   <translation name="Dominick" t-Name="Доминик" />
   <translation name="Bion" t-Name="Бион" />
   <translation name="Boon" t-Name="Бун" />
-  <translation name="Awaween" t-Name="Awaween" />
+  <translation name="Awaween" t-Name="Ауэйн" />
   <translation name="Riddy" t-Name="Ридди" />
   <translation name="Dulu" t-Name="Дулу" />
   <translation name="Odin" t-Name="Один" />
   <translation name="Durante" t-Name="Дуранте" />
   <translation name="Geo" t-Name="Гео" />
-  <translation name="Sonnyeo" t-Name="Sonnyeo" />
+  <translation name="Sonnyeo" t-Name="Соньеу" />
   <translation name="Matheus" t-Name="Матеус" />
-  <translation name="Ole Martin" t-Name="Оле мартин" />
+  <translation name="Ole Martin" t-Name="Оле Мартин" />
   <translation name="Remi" t-Name="Реми" />
   <translation name="Ayr" t-Name="Эр" />
   <translation name="Hua" t-Name="Хуа" />
@@ -1858,10 +1858,10 @@
   <translation name="Nethanial" t-Name="Нетаниаль" />
   <translation name="Sismeel" t-Name="Сисмеил" />
   <translation name="Casper" t-Name="Каспер" />
-  <translation name="Audun" t-Name="Audun" />
+  <translation name="Audun" t-Name="Аудун" />
   <translation name="Amit" t-Name="Амит" />
   <translation name="Mario" t-Name="Марио" />
-  <translation name="Ryan Paul" t-Name="Райан пол" />
+  <translation name="Ryan Paul" t-Name="Райан Пол" />
   <translation name="Rickard" t-Name="Рикард" />
   <translation name="Ouyu" t-Name="Оую" />
   <translation name="Donghyeok" t-Name="Донгхёк" />
@@ -1869,11 +1869,11 @@
   <translation name="Lucius" t-Name="Люциус" />
   <translation name="Frederikus" t-Name="Фредерикус" />
   <translation name="Gokuaku" t-Name="Гокуаку" />
-  <translation name="Daniel-Ian" t-Name="Даниэль-ян" />
-  <translation name="Dan Yang" t-Name="Дан ян" />
+  <translation name="Daniel-Ian" t-Name="Даниэль-Ян" />
+  <translation name="Dan Yang" t-Name="Дан Ян" />
   <translation name="Sungho" t-Name="Сангхо" />
   <translation name="Jakub" t-Name="Якуб" />
-  <translation name="Kouichi" t-Name="Kouichi" />
+  <translation name="Kouichi" t-Name="Киючи" />
   <translation name="Brando" t-Name="Брандо" />
   <translation name="Nevan" t-Name="Неван" />
   <translation name="Opanas" t-Name="Опанас" />
@@ -1881,7 +1881,7 @@
   <translation name="Camaron" t-Name="Камарон" />
   <translation name="Xiangsong" t-Name="Сянсун" />
   <translation name="Floyd" t-Name="Флойд" />
-  <translation name="Youngkwon" t-Name="Youngkwon" />
+  <translation name="Youngkwon" t-Name="Янквон" />
   <translation name="Leighlin" t-Name="Лейлин" />
   <translation name="Inon" t-Name="Инон" />
   <translation name="Xaviar" t-Name="Хавиар" />
@@ -1896,7 +1896,7 @@
   <translation name="Seokho" t-Name="Соохо" />
   <translation name="Gustaff" t-Name="Густав" />
   <translation name="Porter" t-Name="Портер" />
-  <translation name="Seunghun" t-Name="Seunghun" />
+  <translation name="Seunghun" t-Name="Санхун" />
   <translation name="Pim" t-Name="Пим" />
   <translation name="Jules" t-Name="Жюль" />
   <translation name="Zinzan" t-Name="Зинзан" />
@@ -1909,8 +1909,8 @@
   <translation name="Xiang" t-Name="Сян" />
   <translation name="Marcelo" t-Name="Марсело" />
   <translation name="Renvari" t-Name="Ренвари" />
-  <translation name="Xiaoyi" t-Name="Xiaoyi" />
-  <translation name="Candle" t-Name="Свеча" />
+  <translation name="Xiaoyi" t-Name="Кусияи" />
+  <translation name="Candle" t-Name="Кэндл" />
   <translation name="Bomani" t-Name="Бомани" />
   <translation name="Tianfeng" t-Name="Тяньфэн" />
   <translation name="Oyvind" t-Name="Ойвинд" />
@@ -1922,7 +1922,7 @@
   <translation name="Gytis" t-Name="Гитис" />
   <translation name="Papa" t-Name="Папа" />
   <translation name="Zibin" t-Name="Зибин" />
-  <translation name="Sung-Ho" t-Name="Сунг-хо" />
+  <translation name="Sung-Ho" t-Name="Сунг-Хо" />
   <translation name="Minu" t-Name="Мину" />
   <translation name="Elrick" t-Name="Элрик" />
   <translation name="Aleks" t-Name="Алекс" />
@@ -1935,7 +1935,7 @@
   <translation name="Hadar" t-Name="Хадар" />
   <translation name="Jeremias" t-Name="Иеремия" />
   <translation name="Ognar" t-Name="Огнар" />
-  <translation name="Xiao Fei" t-Name="Сяо фэй" />
+  <translation name="Xiao Fei" t-Name="Сяо Фэй" />
   <translation name="Samuele" t-Name="Самуэль" />
   <translation name="Robear" t-Name="Робир" />
   <translation name="Artem" t-Name="Артем" />
@@ -1943,9 +1943,9 @@
   <translation name="Killian" t-Name="Киллиан" />
   <translation name="Mikha" t-Name="Миха" />
   <translation name="Brandt" t-Name="Брандт" />
-  <translation name="Elner-André" t-Name="Элнер-андре" />
-  <translation name="Gaven" t-Name="Gaven" />
-  <translation name="Johaun" t-Name="Johaun" />
+  <translation name="Elner-André" t-Name="Элнер-Андре" />
+  <translation name="Gaven" t-Name="Хафэ" />
+  <translation name="Johaun" t-Name="Джохан" />
   <translation name="Yatsu" t-Name="Яцу" />
   <translation name="Helio" t-Name="Гелио" />
   <translation name="Bernard" t-Name="Бернард" />
@@ -1957,8 +1957,8 @@
   <translation name="Emmett" t-Name="Эммет" />
   <translation name="Atticus" t-Name="Аттик" />
   <translation name="Ravendor" t-Name="Равендор" />
-  <translation name="Kaitoh" t-Name="Kaitoh" />
-  <translation name="Ticer" t-Name="Ticer" />
+  <translation name="Kaitoh" t-Name="Кайто" />
+  <translation name="Ticer" t-Name="Тикерь" />
   <translation name="Hanz" t-Name="Ханц" />
   <translation name="Grey" t-Name="Серый" />
   <translation name="Federico" t-Name="Федерико" />
@@ -1967,14 +1967,14 @@
   <translation name="Ase" t-Name="Асе" />
   <translation name="Westly" t-Name="Вестли" />
   <translation name="Kristofer" t-Name="Кристофер" />
-  <translation name="Dong-Ik" t-Name="Донг-ик" />
+  <translation name="Dong-Ik" t-Name="Донг-Ик" />
   <translation name="Kristoffer" t-Name="Кристоффер" />
   <translation name="Hal" t-Name="Хэл" />
   <translation name="Edgar" t-Name="Эдгар" />
   <translation name="Harley" t-Name="Харлей" />
   <translation name="Aleksey" t-Name="Алексей" />
   <translation name="Manfera" t-Name="Манфера" />
-  <translation name="Jiyeop" t-Name="Jiyeop" />
+  <translation name="Jiyeop" t-Name="Джио" />
   <translation name="Umut" t-Name="Умут" />
   <translation name="Septian" t-Name="Септиан" />
   <translation name="Sheev" t-Name="Шеев" />
@@ -2002,7 +2002,7 @@
   <translation name="Ayden" t-Name="Айден" />
   <translation name="Kono" t-Name="Коно" />
   <translation name="Darian" t-Name="Дариан" />
-  <translation name="Venser" t-Name="Venser" />
+  <translation name="Venser" t-Name="Венсер" />
   <translation name="Matteo" t-Name="Маттео" />
   <translation name="Luc" t-Name="Люк" />
   <translation name="Azmo" t-Name="Азмо" />
@@ -2028,7 +2028,7 @@
   <translation name="Darrian" t-Name="Дарриан" />
   <translation name="Cromwell" t-Name="Кромвель" />
   <translation name="Chibazar" t-Name="Чибазар" />
-  <translation name="Daire" t-Name="Daire" />
+  <translation name="Daire" t-Name="Дайре" />
   <translation name="Minghan" t-Name="Минхан" />
   <translation name="Jac" t-Name="Як" />
   <translation name="Luca" t-Name="Лука" />
@@ -2045,12 +2045,12 @@
   <translation name="Steele" t-Name="Стил" />
   <translation name="Myron" t-Name="Мирон" />
   <translation name="Nesselith" t-Name="Несселит" />
-  <translation name="Runliang" t-Name="Runliang" />
+  <translation name="Runliang" t-Name="Ранли" />
   <translation name="Yaowen" t-Name="Яовен" />
   <translation name="Leon" t-Name="Леон" />
   <translation name="Thom" t-Name="Том" />
   <translation name="Polar" t-Name="Полярный" />
-  <translation name="Kam To" t-Name="Кам то" />
+  <translation name="Kam To" t-Name="Кам То" />
   <translation name="Reuben" t-Name="Рувим" />
   <translation name="Sasha" t-Name="Саша" />
   <translation name="Brixton" t-Name="Брикстон" />
@@ -2074,17 +2074,17 @@
   <translation name="Nathanial" t-Name="Натаниал" />
   <translation name="Rad" t-Name="Рад" />
   <translation name="Deniz" t-Name="Дениз" />
-  <translation name="Zellare" t-Name="Zellare" />
+  <translation name="Zellare" t-Name="Зелларе" />
   <translation name="Diederik" t-Name="Дидерик" />
   <translation name="Anane" t-Name="Анане" />
   <translation name="Rallick" t-Name="Раллик" />
-  <translation name="Batuhan G" t-Name="Батухан г" />
-  <translation name="Kris Antoni" t-Name="Крис антони" />
+  <translation name="Batuhan G" t-Name="Батухан Г" />
+  <translation name="Kris Antoni" t-Name="Крис Антони" />
   <translation name="Evohan" t-Name="Эвохан" />
   <translation name="Octavio" t-Name="Октавио" />
   <translation name="Nayland" t-Name="Нейланд" />
   <translation name="Andreous" t-Name="Андреус" />
-  <translation name="Jean-Philipp" t-Name="Жан-филипп" />
+  <translation name="Jean-Philipp" t-Name="Жан-Филипп" />
   <translation name="Tasuke" t-Name="Тасукэ" />
   <translation name="Silko" t-Name="Силко" />
   <translation name="Macen" t-Name="Масен" />
@@ -2092,7 +2092,7 @@
   <translation name="Dunkel" t-Name="Дункель" />
   <translation name="Tianyi" t-Name="Тяньи" />
   <translation name="Irish" t-Name="Ирландский" />
-  <translation name="Shawndy" t-Name="Shawndy" />
+  <translation name="Shawndy" t-Name="Шоунди" />
   <translation name="Arden" t-Name="Арден" />
   <translation name="Alp" t-Name="Алп" />
   <translation name="Skyler" t-Name="Скайлер" />
@@ -2105,7 +2105,7 @@
   <translation name="Pravik" t-Name="Правик" />
   <translation name="Tatuomi" t-Name="Татуоми" />
   <translation name="Enos" t-Name="Енос" />
-  <translation name="Caelum" t-Name="Caelum" />
+  <translation name="Caelum" t-Name="Каелюм" />
   <translation name="Dmitrii" t-Name="Дмитрий" />
   <translation name="Leith" t-Name="Лейт" />
   <translation name="Arbis" t-Name="Арбис" />
@@ -2121,44 +2121,44 @@
   <translation name="Malcolm" t-Name="Малкольм" />
   <translation name="Zui" t-Name="Зуй" />
   <translation name="Aleksei" t-Name="Алексей" />
-  <translation name="Baeseong" t-Name="Baeseong" />
+  <translation name="Baeseong" t-Name="Бэйсеон" />
   <translation name="Kamil" t-Name="Камил" />
   <translation name="Bryant" t-Name="Брайант" />
   <translation name="Friedlicher" t-Name="Фридличер" />
-  <translation name="Jedrzej" t-Name="Jedrzej" />
+  <translation name="Jedrzej" t-Name="Джедржей" />
   <translation name="Piers" t-Name="Пирс" />
   <translation name="Andras" t-Name="Андрас" />
   <translation name="Gerardus" t-Name="Джерардус" />
   <translation name="Yusuke" t-Name="Юсуке" />
-  <translation name="Brently" t-Name="Brently" />
+  <translation name="Brently" t-Name="Брэнтли" />
   <translation name="Chayce" t-Name="Чайце" />
   <translation name="Willy" t-Name="Вилли" />
   <translation name="Gremdavel" t-Name="Гремдавель" />
   <translation name="Aleck" t-Name="Алек" />
   <translation name="Mohammed" t-Name="Мухаммед" />
   <translation name="Johnny" t-Name="Джонни" />
-  <translation name="Shengchao" t-Name="Shengchao" />
+  <translation name="Shengchao" t-Name="Сенчао" />
   <translation name="Yeong" t-Name="Ён" />
   <translation name="Rogan" t-Name="Роган" />
   <translation name="Trung" t-Name="Трунг" />
   <translation name="Raguel" t-Name="Рагуэль" />
   <translation name="Koyo" t-Name="Koyo" />
-  <translation name="Leif-Thore" t-Name="Лейф-тор" />
+  <translation name="Leif-Thore" t-Name="Лейф-Тор" />
   <translation name="Brandan" t-Name="Брендан" />
   <translation name="Vern" t-Name="Верн" />
   <translation name="Beamer" t-Name="Бимер" />
   <translation name="Sylas" t-Name="Силас" />
-  <translation name="Jadden" t-Name="Jadden" />
+  <translation name="Jadden" t-Name="Джадден" />
   <translation name="Ryu" t-Name="Рю" />
   <translation name="Norvald" t-Name="Норвальд" />
   <translation name="Octavian" t-Name="Октавиан" />
   <translation name="Davi" t-Name="Дави" />
-  <translation name="Taeyoung" t-Name="Taeyoung" />
+  <translation name="Taeyoung" t-Name="Таян" />
   <translation name="Jodie" t-Name="Джоди" />
   <translation name="Keough" t-Name="Кеоф" />
-  <translation name="Haojin" t-Name="Haojin" />
+  <translation name="Haojin" t-Name="Хаотин" />
   <translation name="Anssi" t-Name="Ансси" />
-  <translation name="Jaren" t-Name="Jaren" />
+  <translation name="Jaren" t-Name="Яре" />
   <translation name="Jarlz" t-Name="Ярлз" />
   <translation name="Mehmet" t-Name="Мехмет" />
   <translation name="Juho" t-Name="Юхо" />
@@ -2166,22 +2166,22 @@
   <translation name="Tyraon" t-Name="Тираон" />
   <translation name="Jatta" t-Name="Джатта" />
   <translation name="Garrison" t-Name="Гарнизон" />
-  <translation name="Raie" t-Name="Raie" />
+  <translation name="Raie" t-Name="Рэ" />
   <translation name="Murrso" t-Name="Муррсо" />
   <translation name="Brenndan" t-Name="Бренндан" />
-  <translation name="Seumas" t-Name="Seumas" />
+  <translation name="Seumas" t-Name="Сеюмэс" />
   <translation name="Janik" t-Name="Яник" />
-  <translation name="John-Paul" t-Name="Джон-пол" />
+  <translation name="John-Paul" t-Name="Джон-Пол" />
   <translation name="Zodiac" t-Name="Зодиак" />
   <translation name="Przemyslaw" t-Name="Пшемыслав" />
-  <translation name="Daznaq" t-Name="Daznaq" />
+  <translation name="Daznaq" t-Name="Дазнак" />
   <translation name="Dinh" t-Name="Динь" />
   <translation name="Matias" t-Name="Матиас" />
-  <translation name="Elysian" t-Name="Elysian" />
+  <translation name="Elysian" t-Name="Элизиан" />
   <translation name="Erenus" t-Name="Эренус" />
   <translation name="Vic" t-Name="Вик" />
-  <translation name="Wian" t-Name="Wian" />
-  <translation name="Joolz" t-Name="Joolz" />
+  <translation name="Wian" t-Name="Иян" />
+  <translation name="Joolz" t-Name="Джулз" />
   <translation name="Christophe" t-Name="Кристоф" />
   <translation name="Laszlo" t-Name="Ласло" />
   <translation name="Ventario" t-Name="Вентарио" />
@@ -2192,19 +2192,19 @@
   <translation name="Martino" t-Name="Мартино" />
   <translation name="Ilario" t-Name="Иларио" />
   <translation name="Rishi" t-Name="Риши" />
-  <translation name="Leeland" t-Name="Leeland" />
+  <translation name="Leeland" t-Name="Лиланд" />
   <translation name="Karim" t-Name="Карим" />
   <translation name="Rakesh" t-Name="Ракеш" />
   <translation name="Taesan" t-Name="Тэсан" />
   <translation name="Calum" t-Name="Калум" />
-  <translation name="Phivu" t-Name="Phivu" />
+  <translation name="Phivu" t-Name="Фиву" />
   <translation name="Keenan" t-Name="Кинэн" />
   <translation name="Luka" t-Name="Лука" />
   <translation name="Grifyn" t-Name="Грифын" />
   <translation name="Brennan" t-Name="Бреннан" />
   <translation name="Ludwig" t-Name="Людвиг" />
   <translation name="Diodotus" t-Name="Диодот" />
-  <translation name="Zuofu" t-Name="Zuofu" />
+  <translation name="Zuofu" t-Name="Цулфу" />
   <translation name="Andrés" t-Name="Андрес" />
   <translation name="Georgiy" t-Name="Георгий" />
   <translation name="Austyn" t-Name="Остин" />
@@ -2227,7 +2227,7 @@
   <translation name="Amtoj" t-Name="Амтой" />
   <translation name="Vinh" t-Name="Винь" />
   <translation name="Ishmael" t-Name="Измаил" />
-  <translation name="YueHui" t-Name="Yuehui" />
+  <translation name="YueHui" t-Name="Яуйи" />
   <translation name="Victob" t-Name="Виктоб" />
   <translation name="Sawyer" t-Name="Сойер" />
   <translation name="Dado" t-Name="Дадо" />
@@ -2236,22 +2236,22 @@
   <translation name="Senne" t-Name="Сенне" />
   <translation name="Ludo" t-Name="Людо" />
   <translation name="Zango" t-Name="Занго" />
-  <translation name="Meng Hao" t-Name="Мэн хао" />
+  <translation name="Meng Hao" t-Name="Мэн Хао" />
   <translation name="Yizhou" t-Name="Ичжоу" />
   <translation name="Alisher" t-Name="Алишер" />
-  <translation name="Deisand" t-Name="Deisand" />
+  <translation name="Deisand" t-Name="Дайснт" />
   <translation name="Roarke" t-Name="Рорк" />
   <translation name="Gwilym" t-Name="Гвилим" />
   <translation name="Fellipe" t-Name="Феллипе" />
   <translation name="Paavo" t-Name="Пааво" />
   <translation name="Jed" t-Name="Джед" />
   <translation name="Bubo" t-Name="Бубо" />
-  <translation name="Gyu Won" t-Name="Гю вон" />
+  <translation name="Gyu Won" t-Name="Гю Вон" />
   <translation name="Samael" t-Name="Самаэль" />
   <translation name="Amintore" t-Name="Аминторе" />
   <translation name="Vasyl" t-Name="Василий" />
   <translation name="Jamu" t-Name="Джаму" />
-  <translation name="SeungHo" t-Name="Seungho" />
+  <translation name="SeungHo" t-Name="Сенгхо" />
   <translation name="Dmitri" t-Name="Дмитрий" />
   <translation name="Mohammad" t-Name="Мухаммед" />
   <translation name="Jaeger" t-Name="Егер" />
@@ -2272,7 +2272,7 @@
   <translation name="Tianyang" t-Name="Тяньян" />
   <translation name="Mephis" t-Name="Мефис" />
   <translation name="Avni" t-Name="Авни" />
-  <translation name="Yi Xuan" t-Name="И сюань" />
+  <translation name="Yi Xuan" t-Name="И Сюань" />
   <translation name="Rikki" t-Name="Рикки" />
   <translation name="Hano" t-Name="Хано" />
   <translation name="Mani" t-Name="Мани" />
@@ -2282,7 +2282,7 @@
   <translation name="Agustin" t-Name="Агустин" />
   <translation name="Fidel" t-Name="Фидель" />
   <translation name="YouZhe" t-Name="Юже" />
-  <translation name="Felucir" t-Name="Felucir" />
+  <translation name="Felucir" t-Name="Фелюсий" />
   <translation name="Tatum" t-Name="Татум" />
   <translation name="Derlon" t-Name="Дерлон" />
   <translation name="Angelo" t-Name="Анджело" />
@@ -2292,7 +2292,7 @@
   <translation name="Coleman" t-Name="Коулман" />
   <translation name="Pavlo" t-Name="Павло" />
   <translation name="Tibor" t-Name="Тибор" />
-  <translation name="Zhehao" t-Name="Zhehao" />
+  <translation name="Zhehao" t-Name="Цуйве" />
   <translation name="Seba" t-Name="Себа" />
   <translation name="Milan" t-Name="Милан" />
   <translation name="Rui" t-Name="Руи" />
@@ -2322,12 +2322,12 @@
   <translation name="Regan" t-Name="Реган" />
   <translation name="Ailesh" t-Name="Айлеш" />
   <translation name="Erkki" t-Name="Эркки" />
-  <translation name="Jaiden" t-Name="Jaiden" />
+  <translation name="Jaiden" t-Name="Джейден" />
   <translation name="Varkie" t-Name="Варки" />
   <translation name="Steg" t-Name="Стег" />
   <translation name="Kasuba" t-Name="Касуба" />
   <translation name="Agerra" t-Name="Аджерра" />
-  <translation name="Procene" t-Name="Procene" />
+  <translation name="Procene" t-Name="Просин" />
   <translation name="Green" t-Name="Зеленый" />
   <translation name="Sammy" t-Name="Сэмми" />
   <translation name="Reagan" t-Name="Рейган" />
@@ -2337,19 +2337,19 @@
   <translation name="Rhah" t-Name="Рах" />
   <translation name="Ye" t-Name="Е" />
   <translation name="Tyson" t-Name="Тайсон" />
-  <translation name="Centra" t-Name="Centra" />
-  <translation name="Shae" t-Name="Shae" />
+  <translation name="Centra" t-Name="Центра" />
+  <translation name="Shae" t-Name="Шай" />
   <translation name="Autumn" t-Name="Осень" />
   <translation name="Dev" t-Name="Дев" />
   <translation name="Ryner" t-Name="Рынер" />
-  <translation name="Anthal" t-Name="Anthal" />
+  <translation name="Anthal" t-Name="Антал" />
   <translation name="Soder" t-Name="Содер" />
   <translation name="Wurst" t-Name="Вурст" />
   <translation name="Casey" t-Name="Кейси" />
   <translation name="Caskey" t-Name="Каски" />
   <translation name="Jessie" t-Name="Джесси" />
   <translation name="Soniai" t-Name="Соняй" />
-  <translation name="Sulle" t-Name="Sulle" />
+  <translation name="Sulle" t-Name="Сулле" />
   <translation name="Shuan" t-Name="Шуан" />
   <translation name="Syrrah" t-Name="Сырра" />
   <translation name="Tildema" t-Name="Тильдема" />
@@ -2361,11 +2361,11 @@
   <translation name="Nanet" t-Name="Нанет" />
   <translation name="Yutte" t-Name="Ютте" />
   <translation name="Vegica" t-Name="Вегика" />
-  <translation name="Aatxe" t-Name="Aatxe" />
+  <translation name="Aatxe" t-Name="Ацке" />
   <translation name="Edore" t-Name="Эдор" />
   <translation name="Synth" t-Name="Синт" />
-  <translation name="JD" t-Name="Jd" />
-  <translation name="Waykes" t-Name="Waykes" />
+  <translation name="JD" t-Name="ДжейДи" />
+  <translation name="Waykes" t-Name="Уэйкс" />
   <translation name="Rvlakia" t-Name="Рвлакия" />
   <translation name="Bobbie" t-Name="Бобби" />
   <translation name="Sarah" t-Name="Сара" />
@@ -2378,7 +2378,7 @@
   <translation name="Curlly" t-Name="Кудрявый" />
   <translation name="Itamu" t-Name="Итаму" />
   <translation name="Gamma" t-Name="Гамма" />
-  <translation name="Hansol" t-Name="Hansol" />
+  <translation name="Hansol" t-Name="Хансол" />
   <translation name="Zen" t-Name="Дзен" />
   <translation name="Alyas" t-Name="Аляс" />
   <translation name="Jacky" t-Name="Джеки" />
@@ -2396,7 +2396,7 @@
   <translation name="Joost" t-Name="Йост" />
   <translation name="Jena" t-Name="Йена" />
   <translation name="Druschtje" t-Name="Друще" />
-  <translation name="Nictis" t-Name="Nictis" />
+  <translation name="Nictis" t-Name="Никтис" />
   <translation name="Lyndsy" t-Name="Линдси" />
   <translation name="Tayki" t-Name="Тайки" />
   <translation name="Mazon" t-Name="Мазон" />
@@ -2435,12 +2435,12 @@
   <translation name="Poao" t-Name="Poao" />
   <translation name="Ferael" t-Name="Фраэль" />
   <translation name="Wenqing" t-Name="Венцин" />
-  <translation name="Jaerin" t-Name="Jaerin" />
+  <translation name="Jaerin" t-Name="Ярин" />
   <translation name="Jang" t-Name="Янг" />
   <translation name="Leonardo" t-Name="Леонардо" />
   <translation name="Crystal" t-Name="Кристалл" />
   <translation name="Kees" t-Name="Кеес" />
-  <translation name="Xorin" t-Name="Xorin" />
+  <translation name="Xorin" t-Name="Эксорин" />
   <translation name="Bashkire" t-Name="Башкира" />
   <translation name="Azlan" t-Name="Азлан" />
   <translation name="Ernest" t-Name="Эрнест" />
@@ -2450,8 +2450,8 @@
   <translation name="Vaska" t-Name="Васька" />
   <translation name="Ryusho" t-Name="Рюшо" />
   <translation name="Vonriel" t-Name="Вонриэль" />
-  <translation name="Johs" t-Name="Johs" />
-  <translation name="Korwal" t-Name="Korwal" />
+  <translation name="Johs" t-Name="Джоус" />
+  <translation name="Korwal" t-Name="Куэл" />
   <translation name="Vitor" t-Name="Витор" />
   <translation name="Levin" t-Name="Левин" />
   <translation name="Shaav" t-Name="Шаав" />
@@ -2460,13 +2460,13 @@
   <translation name="Garen" t-Name="Гарен" />
   <translation name="Robbin" t-Name="Роббин" />
   <translation name="Mushinto" t-Name="Мушинто" />
-  <translation name="Soleceon" t-Name="Soleceon" />
+  <translation name="Soleceon" t-Name="Солексеон" />
   <translation name="Axle" t-Name="Ось" />
-  <translation name="Paul-Olivier" t-Name="Поль-оливье" />
+  <translation name="Paul-Olivier" t-Name="Поль-Оливье" />
   <translation name="Benn" t-Name="Бенн" />
   <translation name="Cain" t-Name="Каин" />
   <translation name="Dmitrius" t-Name="Дмитриус" />
-  <translation name="Zero" t-Name="Ноль" />
+  <translation name="Zero" t-Name="Зеро" />
   <translation name="Goki" t-Name="Гоки" />
   <translation name="Hratli" t-Name="Хратли" />
   <translation name="Nebulys" t-Name="Небулис" />
@@ -2479,7 +2479,7 @@
   <translation name="Conlay" t-Name="Конлей" />
   <translation name="Umbra" t-Name="Умбра" />
   <translation name="Brynjar" t-Name="Бриньяр" />
-  <translation name="Sa'Bikk" t-Name="Са'бикк" />
+  <translation name="Sa'Bikk" t-Name="Са'Бикк" />
   <translation name="Renaud" t-Name="Рено" />
   <translation name="Sheetorn" t-Name="Шиторн" />
   <translation name="Krandus" t-Name="Крандус" />
@@ -2504,16 +2504,16 @@
   <translation name="Lancelot" t-Name="Ланселот" />
   <translation name="Ronin" t-Name="Ронин" />
   <translation name="Brote" t-Name="Брот" />
-  <translation name="Unkow" t-Name="Unkow" />
-  <translation name="Sjoerd" t-Name="Sjoerd" />
+  <translation name="Unkow" t-Name="Ункау" />
+  <translation name="Sjoerd" t-Name="Чурт" />
   <translation name="Konnor" t-Name="Коннор" />
-  <translation name="Juan Manuel" t-Name="Хуан мануэль" />
+  <translation name="Juan Manuel" t-Name="Хуан Мануэль" />
   <translation name="Stijn" t-Name="Стейн" />
-  <translation name="Xandarian" t-Name="Xandarian" />
+  <translation name="Xandarian" t-Name="Ксандариан" />
   <translation name="Jarad" t-Name="Джарад" />
   <translation name="Lynn" t-Name="Линн" />
   <translation name="Slivaki" t-Name="Сливаки" />
-  <translation name="Xiaoer" t-Name="Xiaoer" />
+  <translation name="Xiaoer" t-Name="Кусияр" />
   <translation name="Yiyang" t-Name="Иян" />
   <translation name="Klomster" t-Name="Кломстер" />
   <translation name="Hokojin" t-Name="Хокодзин" />
@@ -2525,5 +2525,5 @@
   <translation name="Kjelt" t-Name="Кьельт" />
   <translation name="Aznable" t-Name="Азнэйбл" />
   <translation name="Nicklaus" t-Name="Никлаус" />
-  <translation name="Tynan" t-Name="Тынан" />
+  <translation name="Tynan" t-Name="Тайнан" />
 </Translations_dictionary>

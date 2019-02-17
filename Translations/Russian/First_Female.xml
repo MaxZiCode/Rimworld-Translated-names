@@ -73,7 +73,7 @@
   <translation name="Priscilla" t-Name="Присцилла" />
   <translation name="Sonia" t-Name="Соня" />
   <translation name="Velma" t-Name="Велма" />
-  <translation name="Xina" t-Name="Xina" />
+  <translation name="Xina" t-Name="Ксина" />
   <translation name="Cristina" t-Name="Кристина" />
   <translation name="Elida" t-Name="Элида" />
   <translation name="Iselle" t-Name="Изель" />
@@ -164,7 +164,7 @@
   <translation name="Talia" t-Name="Талия" />
   <translation name="Harriet" t-Name="Гарриет" />
   <translation name="Scarlet" t-Name="Скарлет" />
-  <translation name="Coriveau" t-Name="Coriveau" />
+  <translation name="Coriveau" t-Name="Корова" />
   <translation name="Ripley" t-Name="Рипли" />
   <translation name="Paola" t-Name="Паола" />
   <translation name="Gitta" t-Name="Гитта" />
@@ -172,7 +172,7 @@
   <translation name="Kim" t-Name="Ким" />
   <translation name="Ash" t-Name="Ясень" />
   <translation name="Kelly" t-Name="Келли" />
-  <translation name="MJ" t-Name="Mj" />
+  <translation name="MJ" t-Name="ЭмДжей" />
   <translation name="Katten" t-Name="Каттен" />
   <translation name="Jennifer" t-Name="Дженнифер" />
   <translation name="Chantal" t-Name="Шанталь" />
@@ -232,7 +232,7 @@
   <translation name="Umeko" t-Name="Умеко" />
   <translation name="Yoko" t-Name="Йоко" />
   <translation name="Yoshiko" t-Name="Ёсико" />
-  <translation name="Youko" t-Name="Youko" />
+  <translation name="Youko" t-Name="Юко" />
   <translation name="Yukiko" t-Name="Юкико" />
   <translation name="Yumi" t-Name="Юми" />
   <translation name="Yumiko" t-Name="Юмико" />
@@ -310,12 +310,12 @@
   <translation name="Yana" t-Name="Яна" />
   <translation name="Tiaan" t-Name="Тиан" />
   <translation name="Serah" t-Name="Сера" />
-  <translation name="Cagla" t-Name="Cagla" />
+  <translation name="Cagla" t-Name="Кагла" />
   <translation name="Clara" t-Name="Клара" />
   <translation name="Sandy" t-Name="Сэнди" />
   <translation name="Amy" t-Name="Эми" />
   <translation name="Verenja" t-Name="Вереня" />
-  <translation name="Vaetilda" t-Name="Vaetilda" />
+  <translation name="Vaetilda" t-Name="Вайтильда" />
   <translation name="Sarah" t-Name="Сара" />
   <translation name="Sheenariel" t-Name="Шинариэль" />
   <translation name="Karolien" t-Name="Каролиен" />
@@ -328,7 +328,7 @@
   <translation name="Isodora" t-Name="Изодора" />
   <translation name="Ella" t-Name="Элла" />
   <translation name="Brianna" t-Name="Брианна" />
-  <translation name="Zurine" t-Name="Zurine" />
+  <translation name="Zurine" t-Name="Зурина" />
   <translation name="Bethanlyn" t-Name="Бетанлин" />
   <translation name="Azzura" t-Name="Аззура" />
   <translation name="Kathrin" t-Name="Катрин" />
@@ -372,7 +372,7 @@
   <translation name="June" t-Name="Июнь" />
   <translation name="Lauren" t-Name="Лорен" />
   <translation name="Efa" t-Name="Эфа" />
-  <translation name="Flare" t-Name="Flare" />
+  <translation name="Flare" t-Name="Флара" />
   <translation name="Agata" t-Name="Агата" />
   <translation name="Navis" t-Name="Навис" />
   <translation name="Alexis" t-Name="Алексис" />
@@ -381,7 +381,7 @@
   <translation name="Juliet" t-Name="Джульетта" />
   <translation name="Singer" t-Name="Певица" />
   <translation name="Loren" t-Name="Лорен" />
-  <translation name="Silöé" t-Name="Silöé" />
+  <translation name="Silöé" t-Name="Сайлоя" />
   <translation name="Michele" t-Name="Микеле" />
   <translation name="Sharies" t-Name="Шарис" />
   <translation name="Sesha" t-Name="Сеша" />
@@ -409,7 +409,7 @@
   <translation name="Cassandra" t-Name="Кассандра" />
   <translation name="Katja" t-Name="Катя" />
   <translation name="Gwen" t-Name="Гвен" />
-  <translation name="Lillymay" t-Name="Lillymay" />
+  <translation name="Lillymay" t-Name="Лиллимэй" />
   <translation name="Stefanie" t-Name="Стефани" />
   <translation name="Akira" t-Name="Акира" />
   <translation name="Eir" t-Name="Эйр" />
@@ -429,18 +429,18 @@
   <translation name="Charissa" t-Name="Чарисса" />
   <translation name="Harper" t-Name="Харпер" />
   <translation name="Ruriko" t-Name="Рюрико" />
-  <translation name="Eunae" t-Name="Eunae" />
+  <translation name="Eunae" t-Name="Юнай" />
   <translation name="Hope" t-Name="Надежда" />
   <translation name="Orna" t-Name="Орна" />
   <translation name="Cèilidh" t-Name="Сейлид" />
-  <translation name="Fuego" t-Name="Fuego" />
+  <translation name="Fuego" t-Name="Фьюга" />
   <translation name="Jenny" t-Name="Дженни" />
   <translation name="Shakla" t-Name="Шакла" />
   <translation name="Kilei" t-Name="Килей" />
   <translation name="Lily" t-Name="Лили" />
   <translation name="Kit" t-Name="Кит" />
   <translation name="Levia" t-Name="Левия" />
-  <translation name="Anamù" t-Name="Anamù" />
+  <translation name="Anamù" t-Name="Анамью" />
   <translation name="Cecelia" t-Name="Сесилия" />
   <translation name="Kezia" t-Name="Кезия" />
   <translation name="Nabby" t-Name="Набби" />
@@ -480,7 +480,7 @@
   <translation name="Victoria" t-Name="Виктория" />
   <translation name="Cozima" t-Name="Козима" />
   <translation name="John" t-Name="Джон" />
-  <translation name="Aerianna" t-Name="Aerianna" />
+  <translation name="Aerianna" t-Name="Эрианна" />
   <translation name="Astrid" t-Name="Астрид" />
   <translation name="Stacey" t-Name="Стейси" />
   <translation name="Jenni" t-Name="Дженни" />
@@ -507,10 +507,10 @@
   <translation name="Priscylla" t-Name="Присцилла" />
   <translation name="Sofie" t-Name="Софи" />
   <translation name="Malena" t-Name="Малена" />
-  <translation name="Zettai" t-Name="Zettai" />
+  <translation name="Zettai" t-Name="Зетай" />
   <translation name="Angel" t-Name="Ангел" />
-  <translation name="Strata" t-Name="Strata" />
-  <translation name="Ginger" t-Name="Имбирь" />
+  <translation name="Strata" t-Name="Страта" />
+  <translation name="Ginger" t-Name="Джинджер" />
   <translation name="Signild" t-Name="Сигнилд" />
   <translation name="Zoe" t-Name="Зоя" />
   <translation name="Shauna" t-Name="Шона" />
@@ -533,7 +533,7 @@
   <translation name="Rowan" t-Name="Роуэн" />
   <translation name="Ryla" t-Name="Рила" />
   <translation name="Natalia" t-Name="Наталья" />
-  <translation name="Gaige" t-Name="Gaige" />
+  <translation name="Gaige" t-Name="Гейдж" />
   <translation name="Isabella" t-Name="Изабелла" />
   <translation name="Mausami" t-Name="Маусами" />
   <translation name="Leanna" t-Name="Леанна" />
@@ -603,7 +603,7 @@
   <translation name="Cassie" t-Name="Кэсси" />
   <translation name="Claire" t-Name="Клэр" />
   <translation name="Dezarae" t-Name="Дезарае" />
-  <translation name="Erane" t-Name="Erane" />
+  <translation name="Erane" t-Name="Эрэни" />
   <translation name="Kalico" t-Name="Калико" />
   <translation name="Miranda" t-Name="Миранда" />
   <translation name="Katariina" t-Name="Катарина" />
@@ -621,15 +621,15 @@
   <translation name="Mizuki" t-Name="Мидзуки" />
   <translation name="Tacita" t-Name="Тацита" />
   <translation name="Livvy" t-Name="Ливвы" />
-  <translation name="Yachiyo" t-Name="Yachiyo" />
-  <translation name="Briege" t-Name="Бриге" />
+  <translation name="Yachiyo" t-Name="Ячию" />
+  <translation name="Briege" t-Name="Бридж" />
   <translation name="Nova" t-Name="Нова" />
-  <translation name="Sunshine" t-Name="Солнечный свет" />
+  <translation name="Sunshine" t-Name="Саншайн" />
   <translation name="Montserrat" t-Name="Монтсеррат" />
   <translation name="Brittany" t-Name="Бретань" />
   <translation name="Dayna" t-Name="Дайна" />
   <translation name="Brin" t-Name="Брин" />
-  <translation name="QiLing" t-Name="Qiling" />
+  <translation name="QiLing" t-Name="Килин" />
   <translation name="Sakii" t-Name="Сакия" />
   <translation name="Mistaki" t-Name="Мистаки" />
   <translation name="Eleni" t-Name="Елени" />
@@ -640,15 +640,15 @@
   <translation name="Dorothy" t-Name="Дороти" />
   <translation name="Carolynne" t-Name="Кэролайн" />
   <translation name="Lithiea" t-Name="Лития" />
-  <translation name="Aoife" t-Name="Aoife" />
+  <translation name="Aoife" t-Name="Ифа" />
   <translation name="Iguchi" t-Name="Игути" />
-  <translation name="Laela" t-Name="Laela" />
+  <translation name="Laela" t-Name="Лейла" />
   <translation name="Kristil" t-Name="Кристиль" />
-  <translation name="Jenshae" t-Name="Jenshae" />
+  <translation name="Jenshae" t-Name="Дженшей" />
   <translation name="Ellenora" t-Name="Элленора" />
-  <translation name="Jaqi" t-Name="Jaqi" />
+  <translation name="Jaqi" t-Name="Джеди" />
   <translation name="Cara" t-Name="Кара" />
-  <translation name="Kia" t-Name="Kia" />
+  <translation name="Kia" t-Name="Кия" />
   <translation name="Remillia" t-Name="Ремиллия" />
   <translation name="Tristana" t-Name="Тристана" />
   <translation name="Demetra" t-Name="Деметра" />
@@ -733,11 +733,11 @@
   <translation name="Mekare" t-Name="Мекаре" />
   <translation name="Millicent" t-Name="Миллисент" />
   <translation name="Yuqi" t-Name="Юки" />
-  <translation name="Jadezia" t-Name="Jadezia" />
-  <translation name="Flool" t-Name="Flool" />
+  <translation name="Jadezia" t-Name="Ядезия" />
+  <translation name="Flool" t-Name="Флол" />
   <translation name="Jacqueline" t-Name="Жаклин" />
   <translation name="Elisabeth" t-Name="Элизабет" />
-  <translation name="Ginatae" t-Name="Ginatae" />
+  <translation name="Ginatae" t-Name="Гинати" />
   <translation name="Carina" t-Name="Карина" />
   <translation name="Stamy" t-Name="Стамы" />
   <translation name="Taylor" t-Name="Тейлор" />
@@ -745,10 +745,10 @@
   <translation name="Rilia" t-Name="Рилия" />
   <translation name="Irene" t-Name="Ирэн" />
   <translation name="Bathsheba" t-Name="Вирсавия" />
-  <translation name="Morlania" t-Name="Morlania" />
+  <translation name="Morlania" t-Name="Мурланья" />
   <translation name="Jessica" t-Name="Джессика" />
   <translation name="Kanako" t-Name="Канако" />
-  <translation name="Dawnella" t-Name="Dawnella" />
+  <translation name="Dawnella" t-Name="Даунелла" />
   <translation name="Siennah" t-Name="Сиенна" />
   <translation name="Verity" t-Name="Верити" />
   <translation name="Jillian" t-Name="Джиллиан" />
@@ -771,16 +771,16 @@
   <translation name="Kabri" t-Name="Кабри" />
   <translation name="Noemi" t-Name="Ноэми" />
   <translation name="Amethyst" t-Name="Аметист" />
-  <translation name="Celphos" t-Name="Celphos" />
+  <translation name="Celphos" t-Name="Селфоус" />
   <translation name="Iseria" t-Name="Изерия" />
   <translation name="Dawn" t-Name="Рассвет" />
-  <translation name="Fanciful" t-Name="Причудливый" />
+  <translation name="Fanciful" t-Name="Фансифул" />
   <translation name="Hildagaard" t-Name="Хильдагаард" />
   <translation name="Ange" t-Name="Анж" />
   <translation name="Eden" t-Name="Эдем" />
   <translation name="Benedicte" t-Name="Бенедикт" />
   <translation name="Arielle" t-Name="Ариэль" />
-  <translation name="Kreeo" t-Name="Kreeo" />
+  <translation name="Kreeo" t-Name="Крео" />
   <translation name="Sidoupiar" t-Name="Сидоупиар" />
   <translation name="Varrel" t-Name="Варрел" />
   <translation name="Charlotte" t-Name="Шарлотта" />
@@ -825,14 +825,14 @@
   <translation name="Regan" t-Name="Реган" />
   <translation name="Ailesh" t-Name="Айлеш" />
   <translation name="Erkki" t-Name="Эркки" />
-  <translation name="Jaiden" t-Name="Jaiden" />
+  <translation name="Jaiden" t-Name="Джейден" />
   <translation name="Varkie" t-Name="Варки" />
   <translation name="Nelson" t-Name="Нельсон" />
   <translation name="Justin" t-Name="Джастин" />
   <translation name="Steg" t-Name="Стег" />
   <translation name="Kasuba" t-Name="Касуба" />
   <translation name="Agerra" t-Name="Аджерра" />
-  <translation name="Procene" t-Name="Procene" />
+  <translation name="Procene" t-Name="Просин" />
   <translation name="Green" t-Name="Зеленый" />
   <translation name="Sammy" t-Name="Сэмми" />
   <translation name="Reagan" t-Name="Рейган" />
@@ -843,23 +843,23 @@
   <translation name="Rhah" t-Name="Рах" />
   <translation name="Phil" t-Name="Фил" />
   <translation name="Ezra" t-Name="Эзра" />
-  <translation name="Ye" t-Name="Е" />
+  <translation name="Ye" t-Name="И" />
   <translation name="Tyson" t-Name="Тайсон" />
-  <translation name="Centra" t-Name="Centra" />
+  <translation name="Centra" t-Name="Сентра" />
   <translation name="Lars" t-Name="Ларс" />
   <translation name="Vincent" t-Name="Винсент" />
-  <translation name="Shae" t-Name="Shae" />
+  <translation name="Shae" t-Name="Шей" />
   <translation name="Nicholas" t-Name="Николай" />
   <translation name="Dev" t-Name="Дев" />
   <translation name="Ryner" t-Name="Рынер" />
-  <translation name="Anthal" t-Name="Anthal" />
+  <translation name="Anthal" t-Name="Анталь" />
   <translation name="Soder" t-Name="Содер" />
   <translation name="James" t-Name="Джеймс" />
   <translation name="Wurst" t-Name="Вурст" />
   <translation name="Casey" t-Name="Кейси" />
   <translation name="Caskey" t-Name="Каски" />
   <translation name="Soniai" t-Name="Соняй" />
-  <translation name="Sulle" t-Name="Sulle" />
+  <translation name="Sulle" t-Name="Сулле" />
   <translation name="Adrian" t-Name="Адриан" />
   <translation name="Brett" t-Name="Бретт" />
   <translation name="Shuan" t-Name="Шуан" />
@@ -885,18 +885,18 @@
   <translation name="Yutte" t-Name="Ютте" />
   <translation name="Vegica" t-Name="Вегика" />
   <translation name="Liam" t-Name="Лиам" />
-  <translation name="Jaden" t-Name="Jaden" />
-  <translation name="Fredrik" t-Name="Фредрик" />
+  <translation name="Jaden" t-Name="Джейден" />
+  <translation name="Fredrik" t-Name="Фредрика" />
   <translation name="Theodore" t-Name="Теодор" />
-  <translation name="Aatxe" t-Name="Aatxe" />
+  <translation name="Aatxe" t-Name="Атцке" />
   <translation name="Kevin" t-Name="Кевин" />
   <translation name="Ray" t-Name="Луч" />
   <translation name="Edore" t-Name="Эдор" />
   <translation name="Rasmus" t-Name="Расмус" />
   <translation name="Joe" t-Name="Джо" />
   <translation name="Synth" t-Name="Синт" />
-  <translation name="JD" t-Name="Jd" />
-  <translation name="Waykes" t-Name="Waykes" />
+  <translation name="JD" t-Name="ДжейДи" />
+  <translation name="Waykes" t-Name="Вейкс" />
   <translation name="Jaime" t-Name="Хайме" />
   <translation name="Rvlakia" t-Name="Рвлакия" />
   <translation name="Bobbie" t-Name="Бобби" />
@@ -912,7 +912,7 @@
   <translation name="Dallas" t-Name="Даллас" />
   <translation name="Gamma" t-Name="Гамма" />
   <translation name="Lucas" t-Name="Лукас" />
-  <translation name="Hansol" t-Name="Hansol" />
+  <translation name="Hansol" t-Name="Хансол" />
   <translation name="Alexander" t-Name="Александр" />
   <translation name="Dan" t-Name="Дан" />
   <translation name="Dean" t-Name="Дин" />
@@ -944,7 +944,7 @@
   <translation name="Joost" t-Name="Йост" />
   <translation name="Jena" t-Name="Йена" />
   <translation name="Druschtje" t-Name="Друще" />
-  <translation name="Nictis" t-Name="Nictis" />
+  <translation name="Nictis" t-Name="Никтис" />
   <translation name="Dorian" t-Name="Дориан" />
   <translation name="Lyndsy" t-Name="Линдси" />
   <translation name="Tayki" t-Name="Тайки" />
@@ -1002,12 +1002,12 @@
   <translation name="Ferael" t-Name="Фраэль" />
   <translation name="Wenqing" t-Name="Венцин" />
   <translation name="Ari" t-Name="Ари" />
-  <translation name="Jaerin" t-Name="Jaerin" />
+  <translation name="Jaerin" t-Name="Ярин" />
   <translation name="Jang" t-Name="Янг" />
   <translation name="Leonardo" t-Name="Леонардо" />
   <translation name="Brennan" t-Name="Бреннан" />
   <translation name="Candice" t-Name="Кэндис" />
-  <translation name="Minyoung" t-Name="Minyoung" />
+  <translation name="Minyoung" t-Name="Миньян" />
   <translation name="Pyrrha" t-Name="Пирра" />
   <translation name="Riesling" t-Name="Рислинг" />
   <translation name="Alyssa" t-Name="Алисса" />
@@ -1037,7 +1037,7 @@
   <translation name="Darrien" t-Name="Дарриен" />
   <translation name="Jenniferium" t-Name="Дженнифериум" />
   <translation name="Xiao" t-Name="Сяо" />
-  <translation name="Sjoerd" t-Name="Sjoerd" />
+  <translation name="Sjoerd" t-Name="Шьюрд" />
   <translation name="Lia" t-Name="Лиа" />
   <translation name="Lenka" t-Name="Ленка" />
   <translation name="Yiyang" t-Name="Иян" />
