@@ -3,7 +3,7 @@
 <!-- Don't change the name! -->
   <name>Translated names</name>
   <author>MaxZiCode</author>
-  <url>Later</url>
-  <description>Translates humanlike names to selected language.</description>
+  <url></url>
+  <description>Translates names of persons to different languages. All names have been translated with google translate and a part of them corrected manually.</description>
   <supportedVersions><li>1.0</li></supportedVersions>
 </ModMetaData>
