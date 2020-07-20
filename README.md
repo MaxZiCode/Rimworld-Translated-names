@@ -1,11 +1,8 @@
-# Translated names BETA
-[![RimWorld 1,0](https://img.shields.io/badge/RimWorld-1.0-green.svg?longCache=true&style=plastic)](http://rimworldgame.com/) 
+# Translated names
+[![RimWorld 1,1](https://img.shields.io/badge/Rimworld-1.1-green)](http://rimworldgame.com/) 
 [![MIT License](https://img.shields.io/badge/license-MIT-lightgray.svg?style=flat)](./LICENSE) 
 
-This mod translates names of persons to different languages. All names have been translated with google translate and a part of them corrected manually. The tool for creating and correcting translations will be added later.
-
-## Supported languages
-- Russian
+Этот мод переводит имена, фамилии и прозвища на русский язык. Перевод был выполнен при помощи Google Translate.
 
 <p align="center">
   <a href="https://github.com/pardeike/Harmony">
