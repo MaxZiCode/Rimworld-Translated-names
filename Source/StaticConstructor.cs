@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 using Verse;
 using RimWorld;
-using Harmony;
+using HarmonyLib;
 
 namespace TranslatedNames
 {
@@ -36,7 +36,7 @@ namespace TranslatedNames
 			{
 				translationPath = rootPath + $@"\Translations\{lang}\";
 
-				var harmony = HarmonyInstance.Create("rimworld.maxzicode.translatednames.mainconstructor");
+				var harmony = new Harmony("rimworld.maxzicode.translatednames.mainconstructor");
 				harmony.PatchAll(Assembly.GetExecutingAssembly());
 #if DEBUG
 				Log.Message("Loaded translation for the language: " + lang); 
