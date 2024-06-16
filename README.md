@@ -1,5 +1,5 @@
 # Translated names
-[![RimWorld 1,1](https://img.shields.io/badge/Rimworld-1.1-green)](http://rimworldgame.com/) 
+[![RimWorld 1,5](https://img.shields.io/badge/Rimworld-1.5-green)](http://rimworldgame.com/) 
 [![MIT License](https://img.shields.io/badge/license-MIT-lightgray.svg?style=flat)](./LICENSE) 
 
 Этот мод переводит имена, фамилии и прозвища на русский язык. Перевод был выполнен при помощи Google Translate.
